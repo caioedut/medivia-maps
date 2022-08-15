@@ -1,0 +1,6812 @@
+    1:
+      position:
+        z: 10
+        x: 32355
+        y: 31493
+      icon: 22
+    2:
+      position:
+        z: 6
+        x: 33207
+        y: 32881
+      description: North Exit
+      icon: 6
+    3:
+      position:
+        z: 7
+        x: 33223
+        y: 31800
+      description: Depot
+      icon: 8
+    4:
+      position:
+        z: 3
+        x: 32975
+        y: 32727
+      description: RotS Quest
+      icon: 22
+    5:
+      position:
+        z: 9
+        x: 33106
+        y: 32818
+      icon: 22
+    6:
+      position:
+        z: 4
+        x: 32926
+        y: 32694
+      description: Dragon Lair
+      icon: 22
+    7:
+      position:
+        z: 7
+        x: 31990
+        y: 31971
+      description: BOM - Bank of Medivia
+      icon: 17
+    8:
+      position:
+        z: 10
+        x: 32378
+        y: 30936
+      description: Exit
+      icon: 6
+    9:
+      position:
+        z: 12
+        x: 32132
+        y: 31976
+      description: Bridge
+      icon: 4
+    10:
+      position:
+        z: 7
+        x: 31892
+        y: 31828
+      description: Eschen
+      icon: 8
+    11:
+      position:
+        z: 7
+        x: 33095
+        y: 32344
+      description: Bank
+      icon: 17
+    12:
+      position:
+        z: 7
+        x: 32155
+        y: 31472
+      description: Inn - The Wacky Candle
+      icon: 19
+    13:
+      position:
+        z: 7
+        x: 32107
+        y: 31443
+      description: Bank of Thoris
+      icon: 17
+    14:
+      position:
+        z: 10
+        x: 32857
+        y: 32015
+      description: Exit
+      icon: 4
+    15:
+      position:
+        z: 8
+        x: 32570
+        y: 32332
+      icon: 35
+    16:
+      position:
+        z: 9
+        x: 32647
+        y: 31817
+      icon: 6
+    17:
+      position:
+        z: 7
+        x: 33316
+        y: 31998
+      description: General Goods
+      icon: 23
+    18:
+      position:
+        z: 7
+        x: 33059
+        y: 32373
+      description: Gryphon Transporter
+      icon: 7
+    19:
+      position:
+        z: 7
+        x: 32537
+        y: 32133
+      description: Military Camp
+      icon: 3
+    20:
+      position:
+        z: 17
+        x: 32055
+        y: 31938
+      description: Exit
+      icon: 6
+    21:
+      position:
+        z: 8
+        x: 32993
+        y: 32811
+      description: Wulcan
+      icon: 22
+    22:
+      position:
+        z: 2
+        x: 33282
+        y: 32968
+      description: Ranged combat instructor
+      icon: 12
+    23:
+      position:
+        z: 11
+        x: 32339
+        y: 32121
+      icon: 6
+    24:
+      position:
+        z: 5
+        x: 32475
+        y: 31073
+      description: To Open Gate
+      icon: 6
+    25:
+      position:
+        z: 9
+        x: 32367
+        y: 30955
+      description: Exit
+      icon: 6
+    26:
+      position:
+        z: 6
+        x: 32354
+        y: 31544
+      icon: 22
+    27:
+      position:
+        z: 11
+        x: 32857
+        y: 31988
+      description: Quest
+      icon: 6
+    28:
+      position:
+        z: 14
+        x: 32036
+        y: 31801
+      description: To Minotaur
+      icon: 22
+    29:
+      position:
+        z: 6
+        x: 32495
+        y: 31882
+      description: Boat
+      icon: 7
+    30:
+      position:
+        z: 6
+        x: 32132
+        y: 31388
+      description: Boat
+      icon: 7
+    31:
+      position:
+        z: 4
+        x: 33283
+        y: 32968
+      description: Knight Spells
+      icon: 11
+    32:
+      position:
+        z: 9
+        x: 33052
+        y: 33039
+      icon: 22
+    33:
+      position:
+        z: 7
+        x: 32301
+        y: 32024
+      description: Food
+      icon: 23
+    34:
+      position:
+        z: 7
+        x: 32834
+        y: 32050
+      description: Piece of Iron
+      icon: 4
+    35:
+      position:
+        z: 7
+        x: 32035
+        y: 31971
+      description: Albert's Tannery
+      icon: 23
+    36:
+      position:
+        z: 7
+        x: 31892
+        y: 31848
+      description: To Boat
+      icon: 7
+    37:
+      position:
+        z: 8
+        x: 32303
+        y: 30997
+      description: Exit
+      icon: 22
+    38:
+      position:
+        z: 6
+        x: 32332
+        y: 31536
+      icon: 22
+    39:
+      position:
+        z: 10
+        x: 33131
+        y: 31674
+      icon: 22
+    40:
+      position:
+        z: 7
+        x: 31979
+        y: 31282
+      icon: 7
+    41:
+      position:
+        z: 10
+        x: 32510
+        y: 30712
+      icon: 43
+    42:
+      position:
+        z: 6
+        x: 32907
+        y: 32799
+      description: Exit
+      icon: 22
+    43:
+      position:
+        z: 10
+        x: 32362
+        y: 31888
+      description: Combat Instructor
+      icon: 11
+    44:
+      position:
+        z: 8
+        x: 32338
+        y: 30982
+      description: Exit
+      icon: 22
+    45:
+      position:
+        z: 14
+        x: 33143
+        y: 31724
+      description: Exit
+      icon: 6
+    46:
+      position:
+        z: 12
+        x: 33038
+        y: 32463
+      icon: 26
+    47:
+      position:
+        z: 10
+        x: 32318
+        y: 31916
+      description: Hunter's Outpost
+      icon: 38
+    48:
+      position:
+        z: 8
+        x: 32445
+        y: 31191
+      description: Exit
+      icon: 22
+    49:
+      position:
+        z: 3
+        x: 32934
+        y: 32861
+      description: Exit
+      icon: 22
+    50:
+      position:
+        z: 12
+        x: 32041
+        y: 31913
+      description: Exit
+      icon: 6
+    51:
+      position:
+        z: 6
+        x: 33190
+        y: 32359
+      icon: 22
+    52:
+      position:
+        z: 13
+        x: 32451
+        y: 31800
+      description: Bless: Volcano
+      icon: 3
+    53:
+      position:
+        z: 7
+        x: 32748
+        y: 31907
+      icon: 22
+    54:
+      position:
+        z: 11
+        x: 32383
+        y: 31473
+      icon: 6
+    55:
+      position:
+        z: 7
+        x: 33201
+        y: 32960
+      description: Baker
+      icon: 23
+    56:
+      position:
+        z: 7
+        x: 32754
+        y: 31583
+      description: Ranged combat instructor
+      icon: 12
+    57:
+      position:
+        z: 8
+        x: 32281
+        y: 31577
+      icon: 22
+    58:
+      position:
+        z: 7
+        x: 32098
+        y: 31406
+      description: Royal Castle
+      icon: 3
+    59:
+      position:
+        z: 7
+        x: 32036
+        y: 31955
+      description: Andre's Smithy
+      icon: 23
+    60:
+      position:
+        z: 10
+        x: 33096
+        y: 32930
+      description: Mummy, Eye of the Shadow
+      icon: 22
+    61:
+      position:
+        z: 14
+        x: 32349
+        y: 31470
+      icon: 6
+    62:
+      position:
+        z: 7
+        x: 31884
+        y: 31828
+      description: Lucindel
+      icon: 8
+    63:
+      position:
+        z: 7
+        x: 32272
+        y: 31537
+      description: Entrance
+      icon: 22
+    64:
+      position:
+        z: 10
+        x: 32446
+        y: 31858
+      description: Jeweler
+      icon: 16
+    65:
+      position:
+        z: 7
+        x: 33201
+        y: 33026
+      description: Throneroom (Downstairs)
+      icon: 3
+    66:
+      position:
+        z: 6
+        x: 33120
+        y: 32687
+      description: Dragon Lord
+      icon: 4
+    67:
+      position:
+        z: 10
+        x: 32362
+        y: 31953
+      description: Temple
+      icon: 9
+    68:
+      position:
+        z: 7
+        x: 33014
+        y: 32871
+      description: To Dream Tomb
+      icon: 36
+    69:
+      position:
+        z: 3
+        x: 33226
+        y: 31797
+      description: Gryphon
+      icon: 3
+    70:
+      position:
+        z: 6
+        x: 33243
+        y: 32939
+      description: Bank
+      icon: 17
+    71:
+      position:
+        z: 7
+        x: 32019
+        y: 31849
+      description: To General / To Ebarin / To Jester
+      icon: 6
+    72:
+      position:
+        z: 6
+        x: 32699
+        y: 31748
+      icon: 22
+    73:
+      position:
+        z: 10
+        x: 32364
+        y: 31874
+      description: Depot
+      icon: 8
+    74:
+      position:
+        z: 7
+        x: 32575
+        y: 31753
+      icon: 6
+    75:
+      position:
+        z: 9
+        x: 32383
+        y: 30939
+      description: Exit
+      icon: 6
+    76:
+      position:
+        z: 7
+        x: 32255
+        y: 32033
+      description: Bridge
+      icon: 6
+    77:
+      position:
+        z: 9
+        x: 32062
+        y: 31879
+      description: Exit
+      icon: 22
+    78:
+      position:
+        z: 6
+        x: 32527
+        y: 32051
+      icon: 22
+    79:
+      position:
+        z: 11
+        x: 32556
+        y: 30753
+      icon: 6
+    80:
+      position:
+        z: 8
+        x: 32179
+        y: 32133
+      description: To Zundram
+      icon: 22
+    81:
+      position:
+        z: 5
+        x: 32938
+        y: 32708
+      description: RotS Quest
+      icon: 6
+    82:
+      position:
+        z: 7
+        x: 32774
+        y: 31998
+      icon: 6
+    83:
+      position:
+        z: 14
+        x: 32341
+        y: 31448
+      description: Demon Skeleton
+      icon: 4
+    84:
+      position:
+        z: 7
+        x: 32328
+        y: 31365
+      description: Back to Holdangraff
+      icon: 7
+    85:
+      position:
+        z: 8
+        x: 32272
+        y: 31537
+      description: Exit
+      icon: 6
+    86:
+      position:
+        z: 7
+        x: 33128
+        y: 32396
+      description: Weapon dealer
+      icon: 23
+    87:
+      position:
+        z: 6
+        x: 33170
+        y: 32366
+      description: To City
+      icon: 22
+    88:
+      position:
+        z: 5
+        x: 32800
+        y: 31580
+      description: Blacksmith
+      icon: 23
+    89:
+      position:
+        z: 8
+        x: 32501
+        y: 31202
+      description: Exit
+      icon: 22
+    90:
+      position:
+        z: 8
+        x: 32509
+        y: 32166
+      icon: 22
+    91:
+      position:
+        z: 7
+        x: 32187
+        y: 31463
+      description: Archini and Druid's Guild
+      icon: 3
+    92:
+      position:
+        z: 7
+        x: 32292
+        y: 31537
+      description: Frost Troll
+      icon: 4
+    93:
+      position:
+        z: 8
+        x: 32342
+        y: 31282
+      icon: 6
+    94:
+      position:
+        z: 8
+        x: 32470
+        y: 30984
+      icon: 22
+    95:
+      position:
+        z: 9
+        x: 32933
+        y: 32661
+      description: Exit
+      icon: 6
+    96:
+      position:
+        z: 7
+        x: 32786
+        y: 31583
+      description: South Exit
+      icon: 6
+    97:
+      position:
+        z: 7
+        x: 33529
+        y: 32969
+      description: Exit
+      icon: 6
+    98:
+      position:
+        z: 7
+        x: 32562
+        y: 31688
+      icon: 6
+    99:
+      position:
+        z: 9
+        x: 32551
+        y: 30939
+      description: Exit
+      icon: 22
+    100:
+      position:
+        z: 7
+        x: 32187
+        y: 31800
+      description: Minotaur
+      icon: 4
+    101:
+      position:
+        z: 17
+        x: 32008
+        y: 31835
+      icon: 22
+    102:
+      position:
+        z: 7
+        x: 32908
+        y: 32799
+      description: Mountain
+      icon: 6
+    103:
+      position:
+        z: 7
+        x: 32777
+        y: 32695
+      description: Druid spell teacher
+      icon: 10
+    104:
+      position:
+        z: 14
+        x: 32861
+        y: 33051
+      description: Giant Spider
+      icon: 4
+    105:
+      position:
+        z: 13
+        x: 32087
+        y: 31898
+      description: To Minotaur / To Mad Mage
+      icon: 22
+    106:
+      position:
+        z: 7
+        x: 33201
+        y: 32974
+      description: Ammunition
+      icon: 23
+    107:
+      position:
+        z: 7
+        x: 33373
+        y: 32432
+      description: Mailbox
+      icon: 21
+    108:
+      position:
+        z: 2
+        x: 32915
+        y: 32638
+      description: Exit
+      icon: 22
+    109:
+      position:
+        z: 8
+        x: 32318
+        y: 30990
+      description: Frost Dragon
+      icon: 22
+    110:
+      position:
+        z: 7
+        x: 33504
+        y: 32912
+      description: Door to Shakirian Tomb
+      icon: 4
+    111:
+      position:
+        z: 7
+        x: 32612
+        y: 32086
+      description: Gavril
+      icon: 2
+    112:
+      position:
+        z: 7
+        x: 33212
+        y: 32960
+      description: Fruit
+      icon: 23
+    113:
+      position:
+        z: 7
+        x: 33132
+        y: 32452
+      icon: 22
+    114:
+      position:
+        z: 11
+        x: 32305
+        y: 31872
+      description: Sorcerer and Cleric Spell Teacher
+      icon: 10
+    115:
+      position:
+        z: 10
+        x: 32042
+        y: 31936
+      description: To Minotaur / To Mad Mage
+      icon: 22
+    116:
+      position:
+        z: 7
+        x: 32082
+        y: 32212
+      description: Bridge
+      icon: 6
+    117:
+      position:
+        z: 5
+        x: 33200
+        y: 33023
+      description: Mage Spells (Upstairs)
+      icon: 10
+    118:
+      position:
+        z: 12
+        x: 33100
+        y: 31654
+      icon: 6
+    119:
+      position:
+        z: 10
+        x: 32588
+        y: 30747
+      icon: 42
+    120:
+      position:
+        z: 2
+        x: 31998
+        y: 31842
+      description: Exit
+      icon: 22
+    121:
+      position:
+        z: 18
+        x: 32051
+        y: 31902
+      description: Imperial Faction
+      icon: 22
+    122:
+      position:
+        z: 6
+        x: 32376
+        y: 32135
+      icon: 22
+    123:
+      position:
+        z: 9
+        x: 32378
+        y: 30936
+      description: Frost Dragon
+      icon: 22
+    124:
+      position:
+        z: 9
+        x: 32993
+        y: 32811
+      description: Exit
+      icon: 6
+    125:
+      position:
+        z: 13
+        x: 32013
+        y: 31875
+      icon: 35
+    126:
+      position:
+        z: 7
+        x: 33057
+        y: 32540
+      description: Skull Reaper
+      icon: 22
+    127:
+      position:
+        z: 10
+        x: 32482
+        y: 32187
+      description: Exit
+      icon: 6
+    128:
+      position:
+        z: 9
+        x: 32307
+        y: 30963
+      description: Frost Dragon
+      icon: 22
+    129:
+      position:
+        z: 8
+        x: 32334
+        y: 31296
+      description: Exit
+      icon: 6
+    130:
+      position:
+        z: 7
+        x: 32737
+        y: 31547
+      description: General Goods
+      icon: 23
+    131:
+      position:
+        z: 8
+        x: 32609
+        y: 31002
+      description: Mutated Rat / To Crystal Beast / To Wendigo
+      icon: 22
+    132:
+      position:
+        z: 10
+        x: 32556
+        y: 30753
+      description: Exit
+      icon: 22
+    133:
+      position:
+        z: 5
+        x: 33125
+        y: 32717
+      icon: 6
+    134:
+      position:
+        z: 7
+        x: 32126
+        y: 32332
+      description: To Adrenius
+      icon: 22
+    135:
+      position:
+        z: 10
+        x: 33106
+        y: 32818
+      icon: 6
+    136:
+      position:
+        z: 5
+        x: 33282
+        y: 31864
+      description: Professor Flitwick (spell teacher)
+      icon: 10
+    137:
+      position:
+        z: 7
+        x: 32533
+        y: 32028
+      description: To Arak
+      icon: 6
+    138:
+      position:
+        z: 6
+        x: 32396
+        y: 31400
+      description: Exit
+      icon: 22
+    139:
+      position:
+        z: 6
+        x: 33143
+        y: 31847
+      description: Tvindorath (spell teacher)
+      icon: 10
+    140:
+      position:
+        z: 7
+        x: 32501
+        y: 32169
+      description: Bee
+      icon: 22
+    141:
+      position:
+        z: 7
+        x: 33153
+        y: 31776
+      description: Boat
+      icon: 7
+    142:
+      position:
+        z: 8
+        x: 32514
+        y: 31171
+      description: Exit
+      icon: 6
+    143:
+      position:
+        z: 7
+        x: 32057
+        y: 31940
+      description: The Merry Pony Inn
+      icon: 19
+    144:
+      position:
+        z: 9
+        x: 33106
+        y: 31692
+      icon: 22
+    145:
+      position:
+        z: 8
+        x: 32443
+        y: 31150
+      icon: 6
+    146:
+      position:
+        z: 6
+        x: 32794
+        y: 32710
+      description: Tools / Emblem Backpacks (Downstairs)
+      icon: 23
+    147:
+      position:
+        z: 12
+        x: 32175
+        y: 31933
+      description: Exit
+      icon: 6
+    148:
+      position:
+        z: 7
+        x: 33291
+        y: 31951
+      description: Boat (upstairs)
+      icon: 7
+    149:
+      position:
+        z: 8
+        x: 32810
+        y: 31873
+      icon: 22
+    150:
+      position:
+        z: 10
+        x: 32551
+        y: 30939
+      description: Crystal Beast / To Wendigo
+      icon: 6
+    151:
+      position:
+        z: 8
+        x: 32769
+        y: 31567
+      description: Tanner
+      icon: 23
+    152:
+      position:
+        z: 7
+        x: 32925
+        y: 32864
+      description: Wulcan
+      icon: 6
+    153:
+      position:
+        z: 7
+        x: 32800
+        y: 31578
+      description: Armory
+      icon: 23
+    154:
+      position:
+        z: 14
+        x: 32111
+        y: 31820
+      description: To Minotaur / To Mad Mage
+      icon: 6
+    155:
+      position:
+        z: 9
+        x: 32350
+        y: 31469
+      icon: 22
+    156:
+      position:
+        z: 7
+        x: 32790
+        y: 31920
+      icon: 22
+    157:
+      position:
+        z: 10
+        x: 32622
+        y: 30765
+      icon: 42
+    158:
+      position:
+        z: 15
+        x: 32080
+        y: 31912
+      description: To Minotaur / To Mad Mage
+      icon: 6
+    159:
+      position:
+        z: 3
+        x: 31998
+        y: 31842
+      description: To Jester
+      icon: 6
+    160:
+      position:
+        z: 4
+        x: 32625
+        y: 31120
+      description: Exit
+      icon: 22
+    161:
+      position:
+        z: 7
+        x: 32396
+        y: 31400
+      icon: 6
+    162:
+      position:
+        z: 7
+        x: 32334
+        y: 31296
+      icon: 22
+    163:
+      position:
+        z: 7
+        x: 32083
+        y: 32103
+      description: The Hidden Troll Nest
+      icon: 22
+    164:
+      position:
+        z: 6
+        x: 33223
+        y: 31797
+      description: The Merry Ponny Inn
+      icon: 19
+    165:
+      position:
+        z: 7
+        x: 32283
+        y: 32276
+      description: Exit
+      icon: 22
+    166:
+      position:
+        z: 11
+        x: 33498
+        y: 32918
+      description: Sandskull Spider
+      icon: 4
+    167:
+      position:
+        z: 7
+        x: 33067
+        y: 32392
+      description: Caliph's Castle
+      icon: 3
+    168:
+      position:
+        z: 7
+        x: 32681
+        y: 31760
+      icon: 6
+    169:
+      position:
+        z: 15
+        x: 33331
+        y: 31967
+      description: Steamboat
+      icon: 7
+    170:
+      position:
+        z: 12
+        x: 32791
+        y: 33062
+      description: Exit
+      icon: 4
+    171:
+      position:
+        z: 15
+        x: 32036
+        y: 31801
+      description: Exit
+      icon: 6
+    172:
+      position:
+        z: 10
+        x: 33253
+        y: 31675
+      description: Exit
+      icon: 6
+    173:
+      position:
+        z: 8
+        x: 32993
+        y: 32731
+      description: Exit
+      icon: 22
+    174:
+      position:
+        z: 4
+        x: 32975
+        y: 32727
+      description: Exit
+      icon: 6
+    175:
+      position:
+        z: 8
+        x: 32549
+        y: 31081
+      description: Exit
+      icon: 6
+    176:
+      position:
+        z: 7
+        x: 32750
+        y: 32693
+      description: To Boat
+      icon: 6
+    177:
+      position:
+        z: 7
+        x: 32178
+        y: 31462
+      description: Magic Shop
+      icon: 18
+    178:
+      position:
+        z: 12
+        x: 32040
+        y: 31903
+      description: To Minotaur / To Mad Mage
+      icon: 22
+    179:
+      position:
+        z: 9
+        x: 32179
+        y: 32133
+      description: Exit
+      icon: 6
+    180:
+      position:
+        z: 7
+        x: 32113
+        y: 31411
+      description: Skeleton, Demon Skeleton, Ghoul, Necromancer, Lich
+      icon: 4
+    181:
+      position:
+        z: 12
+        x: 33075
+        y: 32548
+      description: Exit
+      icon: 6
+    182:
+      position:
+        z: 6
+        x: 33092
+        y: 32530
+      description: Exit
+      icon: 22
+    183:
+      position:
+        z: 7
+        x: 32816
+        y: 32770
+      description: Temple
+      icon: 9
+    184:
+      position:
+        z: 10
+        x: 32380
+        y: 31827
+      description: Weaver
+      icon: 23
+    185:
+      position:
+        z: 4
+        x: 33476
+        y: 32143
+      description: |-
+        The Volcano
+        (Foreign Lands)
+      icon: 38
+    186:
+      position:
+        z: 7
+        x: 33190
+        y: 32359
+      description: To Boat
+      icon: 7
+    187:
+      position:
+        z: 6
+        x: 33633
+        y: 32978
+      description: Exit
+      icon: 22
+    188:
+      position:
+        z: 9
+        x: 33571
+        y: 33001
+      description: Exit
+      icon: 6
+    189:
+      position:
+        z: 7
+        x: 32549
+        y: 32061
+      description: Hunter's Outpost
+      icon: 38
+    190:
+      position:
+        z: 10
+        x: 32537
+        y: 30885
+      description: Exit
+      icon: 6
+    191:
+      position:
+        z: 7
+        x: 33171
+        y: 32378
+      description: To Boat
+      icon: 6
+    192:
+      position:
+        z: 7
+        x: 32672
+        y: 31060
+      description: Exit
+      icon: 7
+    193:
+      position:
+        z: 7
+        x: 33260
+        y: 31840
+      description: Magic Shop
+      icon: 18
+    194:
+      position:
+        z: 7
+        x: 32742
+        y: 32756
+      description: West Exit
+      icon: 6
+    195:
+      position:
+        z: 9
+        x: 32320
+        y: 30969
+      description: Exit
+      icon: 22
+    196:
+      position:
+        z: 8
+        x: 32812
+        y: 31871
+      icon: 22
+    197:
+      position:
+        z: 9
+        x: 33556
+        y: 32919
+      icon: 22
+    198:
+      position:
+        z: 9
+        x: 32747
+        y: 31547
+      description: Grim's Guild and Sorcerer Spell Teacher
+      icon: 3
+    199:
+      position:
+        z: 15
+        x: 32483
+        y: 31933
+      description: Steamboat
+      icon: 7
+    200:
+      position:
+        z: 8
+        x: 32402
+        y: 30946
+      description: Exit
+      icon: 22
+    201:
+      position:
+        z: 10
+        x: 32797
+        y: 33108
+      description: Exit
+      icon: 4
+    202:
+      position:
+        z: 5
+        x: 33138
+        y: 32725
+      icon: 22
+    203:
+      position:
+        z: 8
+        x: 33110
+        y: 32845
+      icon: 6
+    204:
+      position:
+        z: 7
+        x: 33330
+        y: 32006
+      description: Jeweler
+      icon: 16
+    205:
+      position:
+        z: 7
+        x: 32146
+        y: 31472
+      description: Furniture
+      icon: 23
+    206:
+      position:
+        z: 10
+        x: 33074
+        y: 32548
+      description: Exit
+      icon: 6
+    207:
+      position:
+        z: 6
+        x: 33059
+        y: 32373
+      description: Gryphon Transporter
+      icon: 7
+    208:
+      position:
+        z: 7
+        x: 32584
+        y: 31793
+      icon: 6
+    209:
+      position:
+        z: 7
+        x: 33170
+        y: 32366
+      description: To Boat
+      icon: 6
+    210:
+      position:
+        z: 12
+        x: 33310
+        y: 31677
+      description: Exit
+      icon: 6
+    211:
+      position:
+        z: 6
+        x: 33193
+        y: 32376
+      description: To Boat
+      icon: 22
+    212:
+      position:
+        z: 7
+        x: 32295
+        y: 31840
+      description: Orc
+      icon: 15
+    213:
+      position:
+        z: 8
+        x: 33533
+        y: 32967
+      description: Exit
+      icon: 6
+    214:
+      position:
+        z: 11
+        x: 33077
+        y: 32549
+      description: Exit
+      icon: 6
+    215:
+      position:
+        z: 7
+        x: 32799
+        y: 31521
+      description: Bank (Downstairs)
+      icon: 17
+    216:
+      position:
+        z: 3
+        x: 32972
+        y: 32722
+      description: Exit
+      icon: 6
+    217:
+      position:
+        z: 7
+        x: 33136
+        y: 31817
+      icon: 22
+    218:
+      position:
+        z: 7
+        x: 33190
+        y: 31797
+      description: King Ulf the Second
+      icon: 3
+    219:
+      position:
+        z: 10
+        x: 32574
+        y: 30712
+      icon: 42
+    220:
+      position:
+        z: 6
+        x: 32734
+        y: 32684
+      description: To Boat
+      icon: 7
+    221:
+      position:
+        z: 6
+        x: 33102
+        y: 32745
+      icon: 22
+    222:
+      position:
+        z: 6
+        x: 33087
+        y: 32531
+      icon: 6
+    223:
+      position:
+        z: 9
+        x: 32970
+        y: 32678
+      description: Exit
+      icon: 6
+    224:
+      position:
+        z: 7
+        x: 32527
+        y: 32051
+      description: North Exit
+      icon: 6
+    225:
+      position:
+        z: 7
+        x: 32492
+        y: 32050
+      description: Church
+      icon: 3
+    226:
+      position:
+        z: 7
+        x: 32813
+        y: 31538
+      description: Depot
+      icon: 8
+    227:
+      position:
+        z: 8
+        x: 32289
+        y: 31010
+      description: Exit
+      icon: 22
+    228:
+      position:
+        z: 5
+        x: 32934
+        y: 32865
+      description: Exit
+      icon: 6
+    229:
+      position:
+        z: 10
+        x: 33494
+        y: 32967
+      icon: 22
+    230:
+      position:
+        z: 1
+        x: 32004
+        y: 31841
+      description: Jester
+      icon: 23
+    231:
+      position:
+        z: 7
+        x: 33146
+        y: 32540
+      description: Bridge
+      icon: 4
+    232:
+      position:
+        z: 7
+        x: 33071
+        y: 32519
+      icon: 6
+    233:
+      position:
+        z: 7
+        x: 32643
+        y: 32705
+      icon: 6
+    234:
+      position:
+        z: 11
+        x: 33131
+        y: 31674
+      description: Exit
+      icon: 6
+    235:
+      position:
+        z: 4
+        x: 33074
+        y: 32731
+      icon: 22
+    236:
+      position:
+        z: 7
+        x: 32704
+        y: 31580
+      description: Entrance
+      icon: 6
+    237:
+      position:
+        z: 7
+        x: 33574
+        y: 33000
+      icon: 36
+    238:
+      position:
+        z: 6
+        x: 33125
+        y: 32352
+      description: Depot
+      icon: 8
+    239:
+      position:
+        z: 12
+        x: 32908
+        y: 32013
+      description: Exit
+      icon: 6
+    240:
+      position:
+        z: 7
+        x: 32907
+        y: 32788
+      description: Exit
+      icon: 6
+    241:
+      position:
+        z: 7
+        x: 32802
+        y: 31546
+      description: Inn
+      icon: 19
+    242:
+      position:
+        z: 3
+        x: 32895
+        y: 32839
+      description: Wulcan
+      icon: 4
+    243:
+      position:
+        z: 9
+        x: 32318
+        y: 30990
+      description: Exit
+      icon: 6
+    244:
+      position:
+        z: 8
+        x: 32571
+        y: 32038
+      description: Lightbringer Faction
+      icon: 3
+    245:
+      position:
+        z: 7
+        x: 32585
+        y: 30980
+      description: Mutated Rat / To Crystal Beast / To Wendigo
+      icon: 22
+    246:
+      position:
+        z: 13
+        x: 32120
+        y: 31967
+      description: Exit
+      icon: 6
+    247:
+      position:
+        z: 3
+        x: 33274
+        y: 33015
+      description: Pharaoh Anhamtap
+      icon: 3
+    248:
+      position:
+        z: 10
+        x: 32384
+        y: 31881
+      description: Weapon Smith
+      icon: 23
+    249:
+      position:
+        z: 3
+        x: 32940
+        y: 32855
+      description: Chimera
+      icon: 38
+    250:
+      position:
+        z: 7
+        x: 33328
+        y: 31861
+      description: Nordag's Isle
+      icon: 10
+    251:
+      position:
+        z: 7
+        x: 32541
+        y: 31065
+      description: Exit
+      icon: 35
+    252:
+      position:
+        z: 10
+        x: 32374
+        y: 30944
+      description: Frost Dragon
+      icon: 6
+    253:
+      position:
+        z: 7
+        x: 32745
+        y: 32847
+      description: Fiery Beetle
+      icon: 22
+    254:
+      position:
+        z: 9
+        x: 33055
+        y: 32993
+      description: Exit
+      icon: 6
+    255:
+      position:
+        z: 9
+        x: 32609
+        y: 31002
+      description: Exit
+      icon: 6
+    256:
+      position:
+        z: 5
+        x: 33087
+        y: 32531
+      description: Exit
+      icon: 22
+    257:
+      position:
+        z: 10
+        x: 32615
+        y: 30722
+      icon: 42
+    258:
+      position:
+        z: 10
+        x: 32536
+        y: 30717
+      icon: 42
+    259:
+      position:
+        z: 4
+        x: 32968
+        y: 32759
+      description: RotS Quest
+      icon: 22
+    260:
+      position:
+        z: 11
+        x: 32560
+        y: 30861
+      icon: 6
+    261:
+      position:
+        z: 6
+        x: 32937
+        y: 32729
+      description: RotS Quest
+      icon: 22
+    262:
+      position:
+        z: 7
+        x: 32633
+        y: 31899
+      description: Postman
+      icon: 4
+    263:
+      position:
+        z: 6
+        x: 33247
+        y: 31841
+      icon: 22
+    264:
+      position:
+        z: 6
+        x: 32071
+        y: 32096
+      description: To The Hidden Troll Nest
+      icon: 22
+    265:
+      position:
+        z: 9
+        x: 32089
+        y: 31932
+      description: To Minotaur / To Mad Mage
+      icon: 22
+    266:
+      position:
+        z: 5
+        x: 33139
+        y: 32964
+      description: Depot
+      icon: 8
+    267:
+      position:
+        z: 20
+        x: 32040
+        y: 31900
+      description: Ancient Rune
+      icon: 8
+    268:
+      position:
+        z: 7
+        x: 31896
+        y: 31828
+      description: Arak
+      icon: 8
+    269:
+      position:
+        z: 9
+        x: 33061
+        y: 32541
+      description: Exit
+      icon: 6
+    270:
+      position:
+        z: 13
+        x: 33292
+        y: 31677
+      icon: 22
+    271:
+      position:
+        z: 13
+        x: 32068
+        y: 31821
+      description: To Minotaur / To Mad Mage
+      icon: 22
+    272:
+      position:
+        z: 7
+        x: 32552
+        y: 31777
+      icon: 22
+    273:
+      position:
+        z: 14
+        x: 32144
+        y: 31934
+      description: Dragon / To Naginata Quest
+      icon: 22
+    274:
+      position:
+        z: 15
+        x: 33143
+        y: 31730
+      description: Exit
+      icon: 6
+    275:
+      position:
+        z: 9
+        x: 32289
+        y: 31016
+      description: Gate
+      icon: 4
+    276:
+      position:
+        z: 7
+        x: 33110
+        y: 32845
+      description: Larva, Scarab, Ancient Scarab
+      icon: 36
+    277:
+      position:
+        z: 7
+        x: 32463
+        y: 31073
+      description: To Open Gate
+      icon: 6
+    278:
+      position:
+        z: 6
+        x: 32934
+        y: 32718
+      description: Gate
+      icon: 4
+    279:
+      position:
+        z: 8
+        x: 32774
+        y: 31526
+      description: Jeweller
+      icon: 16
+    280:
+      position:
+        z: 6
+        x: 31974
+        y: 31919
+      icon: 22
+    281:
+      position:
+        z: 14
+        x: 32069
+        y: 31890
+      description: To Minotaur / To Mad Mage
+      icon: 22
+    282:
+      position:
+        z: 7
+        x: 33203
+        y: 31783
+      description: Food
+      icon: 20
+    283:
+      position:
+        z: 7
+        x: 33141
+        y: 32733
+      description: Green Djinn
+      icon: 6
+    284:
+      position:
+        z: 5
+        x: 32813
+        y: 32709
+      description: Post Office
+      icon: 21
+    285:
+      position:
+        z: 8
+        x: 32566
+        y: 32067
+      description: Exit
+      icon: 6
+    286:
+      position:
+        z: 10
+        x: 32550
+        y: 30705
+      icon: 41
+    287:
+      position:
+        z: 8
+        x: 32323
+        y: 30952
+      description: Frost Dragon
+      icon: 6
+    288:
+      position:
+        z: 16
+        x: 32140
+        y: 31922
+      icon: 28
+    289:
+      position:
+        z: 7
+        x: 32370
+        y: 31283
+      description: Bridge
+      icon: 4
+    290:
+      position:
+        z: 3
+        x: 32903
+        y: 32826
+      description: Wulcan
+      icon: 6
+    291:
+      position:
+        z: 10
+        x: 32307
+        y: 30963
+      description: Exit
+      icon: 6
+    292:
+      position:
+        z: 7
+        x: 32539
+        y: 31031
+      description: Mailbox
+      icon: 21
+    293:
+      position:
+        z: 10
+        x: 32573
+        y: 30759
+      icon: 41
+    294:
+      position:
+        z: 6
+        x: 33071
+        y: 32519
+      icon: 22
+    295:
+      position:
+        z: 6
+        x: 32836
+        y: 32749
+      description: Magic Shop
+      icon: 18
+    296:
+      position:
+        z: 6
+        x: 33229
+        y: 32985
+      description: Furniture
+      icon: 23
+    297:
+      position:
+        z: 8
+        x: 32363
+        y: 31461
+      icon: 22
+    298:
+      position:
+        z: 6
+        x: 33184
+        y: 32924
+      description: Food / Beer
+      icon: 20
+    299:
+      position:
+        z: 5
+        x: 32916
+        y: 32626
+      description: Exit
+      icon: 6
+    300:
+      position:
+        z: 7
+        x: 32140
+        y: 31505
+      description: Combat Instructor
+      icon: 11
+    301:
+      position:
+        z: 7
+        x: 32727
+        y: 32027
+      description: Piece of Iron
+      icon: 4
+    302:
+      position:
+        z: 6
+        x: 33295
+        y: 31941
+      description: Salmon vendor
+      icon: 23
+    303:
+      position:
+        z: 7
+        x: 33109
+        y: 32460
+      description: Bridge
+      icon: 4
+    304:
+      position:
+        z: 13
+        x: 33292
+        y: 31674
+      description: Exit
+      icon: 6
+    305:
+      position:
+        z: 15
+        x: 33083
+        y: 31709
+      icon: 6
+    306:
+      position:
+        z: 7
+        x: 32863
+        y: 31574
+      description: Boat
+      icon: 7
+    307:
+      position:
+        z: 6
+        x: 32765
+        y: 32732
+      icon: 22
+    308:
+      position:
+        z: 7
+        x: 32243
+        y: 31994
+      description: Bless: Light
+      icon: 3
+    309:
+      position:
+        z: 7
+        x: 33195
+        y: 31797
+      description: General of The Order of The Holy Rose
+      icon: 3
+    310:
+      position:
+        z: 7
+        x: 32042
+        y: 31908
+      description: Temple
+      icon: 9
+    311:
+      position:
+        z: 14
+        x: 32068
+        y: 31821
+      description: Exit
+      icon: 6
+    312:
+      position:
+        z: 7
+        x: 32515
+        y: 32080
+      description: Smith
+      icon: 23
+    313:
+      position:
+        z: 6
+        x: 33072
+        y: 32514
+      icon: 6
+    314:
+      position:
+        z: 11
+        x: 32313
+        y: 31872
+      description: Magic Shop
+      icon: 18
+    315:
+      position:
+        z: 5
+        x: 32856
+        y: 32673
+      description: Gryphon Transporter (upstairs)
+      icon: 7
+    316:
+      position:
+        z: 6
+        x: 31892
+        y: 31857
+      description: Boat
+      icon: 7
+    317:
+      position:
+        z: 8
+        x: 32585
+        y: 30980
+      description: Exit
+      icon: 6
+    318:
+      position:
+        z: 11
+        x: 32554
+        y: 30821
+      description: Exit
+      icon: 6
+    319:
+      position:
+        z: 7
+        x: 32831
+        y: 31889
+      icon: 22
+    320:
+      position:
+        z: 10
+        x: 32544
+        y: 30726
+      icon: 42
+    321:
+      position:
+        z: 5
+        x: 32548
+        y: 31150
+      description: Exit
+      icon: 6
+    322:
+      position:
+        z: 13
+        x: 32110
+        y: 31948
+      description: Exit
+      icon: 6
+    323:
+      position:
+        z: 6
+        x: 32397
+        y: 32235
+      icon: 22
+    324:
+      position:
+        z: 7
+        x: 33201
+        y: 32954
+      description: Food
+      icon: 23
+    325:
+      position:
+        z: 7
+        x: 32189
+        y: 31475
+      description: Sorcerer Spell Teacher
+      icon: 10
+    326:
+      position:
+        z: 3
+        x: 31994
+        y: 31841
+      description: Exit
+      icon: 22
+    327:
+      position:
+        z: 2
+        x: 32889
+        y: 32830
+      description: Wulcan
+      icon: 22
+    328:
+      position:
+        z: 8
+        x: 33474
+        y: 32906
+      icon: 22
+    329:
+      position:
+        z: 10
+        x: 32334
+        y: 31532
+      icon: 22
+    330:
+      position:
+        z: 9
+        x: 32509
+        y: 32166
+      description: Exit
+      icon: 6
+    331:
+      position:
+        z: 7
+        x: 32779
+        y: 31579
+      description: Melee combat instructor
+      icon: 11
+    332:
+      position:
+        z: 7
+        x: 33213
+        y: 32967
+      description: Weapon
+      icon: 23
+    333:
+      position:
+        z: 20
+        x: 32044
+        y: 31897
+      description: Key 3667
+      icon: 8
+    334:
+      position:
+        z: 17
+        x: 32055
+        y: 31927
+      description: Imperial Faction: Key 3667 / Ancient Spellrune
+      icon: 35
+    335:
+      position:
+        z: 4
+        x: 32937
+        y: 32863
+      description: Exit
+      icon: 22
+    336:
+      position:
+        z: 14
+        x: 32808
+        y: 33120
+      description: Giant Spider
+      icon: 4
+    337:
+      position:
+        z: 5
+        x: 33074
+        y: 32731
+      icon: 6
+    338:
+      position:
+        z: 8
+        x: 32871
+        y: 31967
+      icon: 22
+    339:
+      position:
+        z: 7
+        x: 32500
+        y: 32096
+      description: Beer
+      icon: 19
+    340:
+      position:
+        z: 11
+        x: 33481
+        y: 32946
+      description: Anubis
+      icon: 4
+    341:
+      position:
+        z: 6
+        x: 33141
+        y: 32733
+      icon: 22
+    342:
+      position:
+        z: 7
+        x: 33114
+        y: 32396
+      description: Armor salesman
+      icon: 23
+    343:
+      position:
+        z: 5
+        x: 31892
+        y: 31836
+      description: Home
+      icon: 8
+    344:
+      position:
+        z: 6
+        x: 32444
+        y: 31356
+      description: Exit
+      icon: 22
+    345:
+      position:
+        z: 6
+        x: 32067
+        y: 31886
+      description: Magic Shop
+      icon: 18
+    346:
+      position:
+        z: 19
+        x: 32040
+        y: 31897
+      description: Imperial Faction
+      icon: 22
+    347:
+      position:
+        z: 7
+        x: 32284
+        y: 31866
+      description: Orc
+      icon: 6
+    348:
+      position:
+        z: 5
+        x: 33205
+        y: 32401
+      icon: 22
+    349:
+      position:
+        z: 5
+        x: 33086
+        y: 32709
+      icon: 22
+    350:
+      position:
+        z: 11
+        x: 33494
+        y: 32967
+      description: Exit
+      icon: 6
+    351:
+      position:
+        z: 5
+        x: 33260
+        y: 31840
+      description: Mushroom Salesman
+      icon: 23
+    352:
+      position:
+        z: 5
+        x: 32299
+        y: 31027
+      icon: 22
+    353:
+      position:
+        z: 8
+        x: 33575
+        y: 32990
+      icon: 6
+    354:
+      position:
+        z: 6
+        x: 32406
+        y: 32143
+      icon: 6
+    355:
+      position:
+        z: 6
+        x: 31986
+        y: 31912
+      description: Hunter's Outpost (Upstairs)
+      icon: 38
+    356:
+      position:
+        z: 7
+        x: 33509
+        y: 32907
+      description: Slave and Postman Mailbox
+      icon: 6
+    357:
+      position:
+        z: 7
+        x: 33397
+        y: 32430
+      description: Sergeant Hornrage
+      icon: 7
+    358:
+      position:
+        z: 10
+        x: 33556
+        y: 32919
+      description: Exit
+      icon: 6
+    359:
+      position:
+        z: 6
+        x: 33187
+        y: 31810
+      description: Cooking Teacher
+      icon: 10
+    360:
+      position:
+        z: 5
+        x: 33250
+        y: 33029
+      description: Magic Shop (Upstairs)
+      icon: 18
+    361:
+      position:
+        z: 7
+        x: 32810
+        y: 32732
+      description: Bridge
+      icon: 13
+    362:
+      position:
+        z: 7
+        x: 32280
+        y: 31549
+      icon: 6
+    363:
+      position:
+        z: 12
+        x: 32098
+        y: 31930
+      description: Exit
+      icon: 6
+    364:
+      position:
+        z: 9
+        x: 32289
+        y: 31010
+      description: Frost Dragon
+      icon: 6
+    365:
+      position:
+        z: 7
+        x: 32420
+        y: 31470
+      description: Ghoul
+      icon: 4
+    366:
+      position:
+        z: 10
+        x: 32163
+        y: 32135
+      description: Exit
+      icon: 6
+    367:
+      position:
+        z: 8
+        x: 33114
+        y: 31727
+      icon: 22
+    368:
+      position:
+        z: 7
+        x: 33008
+        y: 32819
+      description: Portal to Dream Tomb
+      icon: 4
+    369:
+      position:
+        z: 7
+        x: 32128
+        y: 32125
+      description: Bridge
+      icon: 6
+    370:
+      position:
+        z: 7
+        x: 32323
+        y: 30952
+      description: Exit
+      icon: 22
+    371:
+      position:
+        z: 8
+        x: 32368
+        y: 30954
+      description: Frost Dragon
+      icon: 22
+    372:
+      position:
+        z: 8
+        x: 33133
+        y: 31736
+      description: Exit
+      icon: 6
+    373:
+      position:
+        z: 6
+        x: 33104
+        y: 32399
+      description: Tool
+      icon: 23
+    374:
+      position:
+        z: 8
+        x: 32412
+        y: 31012
+      icon: 22
+    375:
+      position:
+        z: 15
+        x: 32055
+        y: 31923
+      description: Exit
+      icon: 6
+    376:
+      position:
+        z: 11
+        x: 32136
+        y: 31917
+      description: Exit
+      icon: 6
+    377:
+      position:
+        z: 5
+        x: 33168
+        y: 33077
+      description: Druids Spells
+      icon: 10
+    378:
+      position:
+        z: 9
+        x: 32197
+        y: 31442
+      description: Demon Skeleton
+      icon: 4
+    379:
+      position:
+        z: 5
+        x: 32962
+        y: 32771
+      icon: 6
+    380:
+      position:
+        z: 14
+        x: 32897
+        y: 33098
+      description: Giant Cobra
+      icon: 4
+    381:
+      position:
+        z: 6
+        x: 33198
+        y: 32351
+      description: Boat
+      icon: 7
+    382:
+      position:
+        z: 9
+        x: 32137
+        y: 31917
+      description: To Dragon / To Naginata Quest
+      icon: 22
+    383:
+      position:
+        z: 5
+        x: 32937
+        y: 32863
+      description: Wulcan
+      icon: 6
+    384:
+      position:
+        z: 7
+        x: 33296
+        y: 31997
+      description: Blacksmith
+      icon: 23
+    385:
+      position:
+        z: 7
+        x: 33276
+        y: 32966
+      description: The Great Library
+      icon: 3
+    386:
+      position:
+        z: 11
+        x: 33075
+        y: 32548
+      description: Skull Reaper
+      icon: 35
+    387:
+      position:
+        z: 9
+        x: 33253
+        y: 31675
+      icon: 22
+    388:
+      position:
+        z: 15
+        x: 32069
+        y: 31890
+      description: Exit
+      icon: 6
+    389:
+      position:
+        z: 5
+        x: 32933
+        y: 32750
+      description: RotS Quest
+      icon: 22
+    390:
+      position:
+        z: 7
+        x: 33490
+        y: 32904
+      description: Exit
+      icon: 36
+    391:
+      position:
+        z: 8
+        x: 33571
+        y: 33001
+      icon: 22
+    392:
+      position:
+        z: 8
+        x: 32571
+        y: 32330
+      icon: 6
+    393:
+      position:
+        z: 5
+        x: 32019
+        y: 31862
+      description: To General / To Ebarin / To Jester
+      icon: 6
+    394:
+      position:
+        z: 6
+        x: 32463
+        y: 32126
+      description: Castle of Prince Yaroslav
+      icon: 3
+    395:
+      position:
+        z: 10
+        x: 33070
+        y: 32960
+      description: Exit
+      icon: 6
+    396:
+      position:
+        z: 6
+        x: 32578
+        y: 32329
+      description: Plate Armor Quest
+      icon: 22
+    397:
+      position:
+        z: 11
+        x: 32871
+        y: 31964
+      description: Exit
+      icon: 6
+    398:
+      position:
+        z: 6
+        x: 32934
+        y: 32865
+      description: Wulcan
+      icon: 6
+    399:
+      position:
+        z: 6
+        x: 32139
+        y: 31399
+      icon: 22
+    400:
+      position:
+        z: 8
+        x: 32873
+        y: 31953
+      icon: 6
+    401:
+      position:
+        z: 7
+        x: 32222
+        y: 31812
+      description: Rabbit
+      icon: 22
+    402:
+      position:
+        z: 5
+        x: 33181
+        y: 32401
+      icon: 22
+    403:
+      position:
+        z: 8
+        x: 32487
+        y: 31206
+      icon: 22
+    404:
+      position:
+        z: 7
+        x: 33318
+        y: 32010
+      description: Furniture Shop
+      icon: 23
+    405:
+      position:
+        z: 7
+        x: 33094
+        y: 32964
+      icon: 6
+    406:
+      position:
+        z: 7
+        x: 32947
+        y: 32683
+      description: Exit
+      icon: 6
+    407:
+      position:
+        z: 5
+        x: 33051
+        y: 32393
+      description: Spell teacher
+      icon: 10
+    408:
+      position:
+        z: 7
+        x: 33180
+        y: 33045
+      description: To Temple
+      icon: 7
+    409:
+      position:
+        z: 12
+        x: 32488
+        y: 32179
+      icon: 22
+    410:
+      position:
+        z: 7
+        x: 32004
+        y: 31850
+      description: Royal Castle
+      icon: 3
+    411:
+      position:
+        z: 12
+        x: 32345
+        y: 31866
+      description: Ironjaw Clan
+      icon: 3
+    412:
+      position:
+        z: 8
+        x: 32970
+        y: 32831
+      description: Exit
+      icon: 22
+    413:
+      position:
+        z: 9
+        x: 33123
+        y: 32854
+      icon: 6
+    414:
+      position:
+        z: 7
+        x: 32543
+        y: 32111
+      description: Mage Spells
+      icon: 10
+    415:
+      position:
+        z: 11
+        x: 32509
+        y: 31519
+      description: Orc Warlord
+      icon: 38
+    416:
+      position:
+        z: 11
+        x: 33310
+        y: 31677
+      icon: 22
+    417:
+      position:
+        z: 6
+        x: 32357
+        y: 31805
+      description: Minecarts (North)
+      icon: 7
+    418:
+      position:
+        z: 11
+        x: 32362
+        y: 31953
+      description: Temple
+      icon: 9
+    419:
+      position:
+        z: 3
+        x: 33251
+        y: 33030
+      description: Magic Shop
+      icon: 18
+    420:
+      position:
+        z: 9
+        x: 32402
+        y: 30946
+      icon: 6
+    421:
+      position:
+        z: 13
+        x: 32346
+        y: 31901
+      description: The Ancient Forge
+      icon: 4
+    422:
+      position:
+        z: 5
+        x: 33072
+        y: 32513
+      icon: 22
+    423:
+      position:
+        z: 16
+        x: 32151
+        y: 31933
+      description: Exit
+      icon: 6
+    424:
+      position:
+        z: 8
+        x: 32501
+        y: 32169
+      description: Exit
+      icon: 6
+    425:
+      position:
+        z: 12
+        x: 33538
+        y: 32881
+      description: Exit
+      icon: 6
+    426:
+      position:
+        z: 7
+        x: 32632
+        y: 31101
+      icon: 6
+    427:
+      position:
+        z: 8
+        x: 32775
+        y: 33144
+      description: Portal
+      icon: 4
+    428:
+      position:
+        z: 7
+        x: 33321
+        y: 31995
+      description: Weapon salesman
+      icon: 23
+    429:
+      position:
+        z: 6
+        x: 33148
+        y: 33046
+      description: Boat
+      icon: 7
+    430:
+      position:
+        z: 8
+        x: 32978
+        y: 32703
+      description: Exit
+      icon: 6
+    431:
+      position:
+        z: 10
+        x: 32350
+        y: 31469
+      icon: 6
+    432:
+      position:
+        z: 7
+        x: 32794
+        y: 32712
+      description: Tools / Emblem Backpacks (Downstairs)
+      icon: 23
+    433:
+      position:
+        z: 3
+        x: 33249
+        y: 33027
+      description: Potion (Upstairs)
+      icon: 18
+    434:
+      position:
+        z: 11
+        x: 33261
+        y: 31633
+      description: Exit
+      icon: 6
+    435:
+      position:
+        z: 7
+        x: 32507
+        y: 32079
+      description: Bakery
+      icon: 23
+    436:
+      position:
+        z: 13
+        x: 32095
+        y: 31834
+      description: Exit
+      icon: 22
+    437:
+      position:
+        z: 9
+        x: 32227
+        y: 31436
+      description: Lich, Vampire
+      icon: 4
+    438:
+      position:
+        z: 6
+        x: 32850
+        y: 31573
+      description: Hunter's outpost
+      icon: 38
+    439:
+      position:
+        z: 7
+        x: 32523
+        y: 32071
+      description: Misha
+      icon: 2
+    440:
+      position:
+        z: 9
+        x: 32971
+        y: 32693
+      description: Wulcan
+      icon: 6
+    441:
+      position:
+        z: 12
+        x: 32098
+        y: 31943
+      description: Bridge
+      icon: 4
+    442:
+      position:
+        z: 6
+        x: 32560
+        y: 32067
+      icon: 22
+    443:
+      position:
+        z: 9
+        x: 32871
+        y: 31960
+      icon: 22
+    444:
+      position:
+        z: 7
+        x: 32571
+        y: 32330
+      description: Plate Armor Quest
+      icon: 36
+    445:
+      position:
+        z: 8
+        x: 33282
+        y: 31864
+      description: Lianda (spell teacher)
+      icon: 10
+    446:
+      position:
+        z: 4
+        x: 32893
+        y: 32839
+      description: Wulcan
+      icon: 23
+    447:
+      position:
+        z: 10
+        x: 33052
+        y: 33039
+      description: Exit
+      icon: 6
+    448:
+      position:
+        z: 7
+        x: 32527
+        y: 32135
+      description: Knight Spells
+      icon: 11
+    449:
+      position:
+        z: 10
+        x: 32482
+        y: 31891
+      description: Boat (upstairs)
+      icon: 7
+    450:
+      position:
+        z: 8
+        x: 33574
+        y: 33000
+      description: Exit
+      icon: 6
+    451:
+      position:
+        z: 12
+        x: 32366
+        y: 31873
+      description: Bank
+      icon: 17
+    452:
+      position:
+        z: 6
+        x: 33274
+        y: 33020
+      description: Pharaoh's Pyramid
+      icon: 3
+    453:
+      position:
+        z: 9
+        x: 32572
+        y: 32331
+      icon: 6
+    454:
+      position:
+        z: 10
+        x: 32136
+        y: 31917
+      description: To Dragon / To Naginata Quest
+      icon: 22
+    455:
+      position:
+        z: 7
+        x: 32752
+        y: 31941
+      description: Giant Spider / Spider Silk Armor Quest
+      icon: 22
+    456:
+      position:
+        z: 7
+        x: 32330
+        y: 32030
+      description: Armor
+      icon: 23
+    457:
+      position:
+        z: 10
+        x: 32315
+        y: 31859
+      description: General Goods
+      icon: 23
+    458:
+      position:
+        z: 10
+        x: 32588
+        y: 30733
+      icon: 41
+    459:
+      position:
+        z: 5
+        x: 31888
+        y: 31828
+      description: Abukir
+      icon: 8
+    460:
+      position:
+        z: 6
+        x: 33331
+        y: 31990
+      description: Bank
+      icon: 8
+    461:
+      position:
+        z: 9
+        x: 32363
+        y: 31461
+      icon: 6
+    462:
+      position:
+        z: 6
+        x: 32845
+        y: 32744
+      description: Butcher
+      icon: 20
+    463:
+      position:
+        z: 7
+        x: 32716
+        y: 31513
+      description: Druid's Guild
+      icon: 3
+    464:
+      position:
+        z: 8
+        x: 32855
+        y: 33055
+      description: Exit
+      icon: 4
+    465:
+      position:
+        z: 8
+        x: 33061
+        y: 32541
+      description: Skull Reaper
+      icon: 22
+    466:
+      position:
+        z: 6
+        x: 32810
+        y: 32732
+      icon: 22
+    467:
+      position:
+        z: 7
+        x: 32679
+        y: 31594
+      description: West Exit
+      icon: 6
+    468:
+      position:
+        z: 7
+        x: 32126
+        y: 31455
+      description: Inn - The Breezy Squid
+      icon: 19
+    469:
+      position:
+        z: 9
+        x: 32993
+        y: 32731
+      description: Wulcan
+      icon: 6
+    470:
+      position:
+        z: 8
+        x: 32967
+        y: 32811
+      description: Exit
+      icon: 22
+    471:
+      position:
+        z: 8
+        x: 33490
+        y: 32904
+      icon: 6
+    472:
+      position:
+        z: 10
+        x: 32488
+        y: 32186
+      icon: 22
+    473:
+      position:
+        z: 7
+        x: 32536
+        y: 32274
+      description: Bug
+      icon: 22
+    474:
+      position:
+        z: 8
+        x: 32181
+        y: 32116
+      description: Exit
+      icon: 6
+    475:
+      position:
+        z: 7
+        x: 32828
+        y: 31885
+      icon: 22
+    476:
+      position:
+        z: 6
+        x: 33216
+        y: 31756
+      icon: 22
+    477:
+      position:
+        z: 6
+        x: 32881
+        y: 32695
+      description: Mage spell teacher
+      icon: 10
+    478:
+      position:
+        z: 7
+        x: 32714
+        y: 31577
+      description: Exit
+      icon: 6
+    479:
+      position:
+        z: 3
+        x: 33202
+        y: 33025
+      description: Mage Spells
+      icon: 10
+    480:
+      position:
+        z: 6
+        x: 32857
+        y: 32695
+      description: Magic Shop (upstairs)
+      icon: 18
+    481:
+      position:
+        z: 7
+        x: 33020
+        y: 32855
+      description: Exit
+      icon: 36
+    482:
+      position:
+        z: 10
+        x: 33260
+        y: 31633
+      icon: 22
+    483:
+      position:
+        z: 9
+        x: 32412
+        y: 31012
+      description: Exit
+      icon: 6
+    484:
+      position:
+        z: 7
+        x: 32841
+        y: 32750
+      description: Bank of Abukir
+      icon: 17
+    485:
+      position:
+        z: 9
+        x: 32163
+        y: 32135
+      description: To Zundram
+      icon: 22
+    486:
+      position:
+        z: 14
+        x: 32055
+        y: 31919
+      description: Mad Mage Room
+      icon: 4
+    487:
+      position:
+        z: 12
+        x: 32120
+        y: 31967
+      description: To Dragon / To Naginata Quest
+      icon: 22
+    488:
+      position:
+        z: 7
+        x: 32067
+        y: 31887
+      description: Potion
+      icon: 18
+    489:
+      position:
+        z: 7
+        x: 32060
+        y: 31883
+      description: Magic Shop (Upstairs)
+      icon: 18
+    490:
+      position:
+        z: 12
+        x: 32170
+        y: 31917
+      icon: 6
+    491:
+      position:
+        z: 12
+        x: 32110
+        y: 31948
+      description: To Dragon / To Naginata Quest
+      icon: 22
+    492:
+      position:
+        z: 7
+        x: 33312
+        y: 31995
+      description: Food vendor
+      icon: 23
+    493:
+      position:
+        z: 4
+        x: 32548
+        y: 31150
+      icon: 35
+    494:
+      position:
+        z: 7
+        x: 32765
+        y: 32752
+      description: Inn
+      icon: 19
+    495:
+      position:
+        z: 12
+        x: 33156
+        y: 31673
+      description: Exit
+      icon: 6
+    496:
+      position:
+        z: 10
+        x: 32327
+        y: 31486
+      icon: 6
+    497:
+      position:
+        z: 7
+        x: 32548
+        y: 31010
+      icon: 6
+    498:
+      position:
+        z: 7
+        x: 32261
+        y: 31434
+      description: To Forgula
+      icon: 7
+    499:
+      position:
+        z: 9
+        x: 32310
+        y: 32111
+      icon: 6
+    500:
+      position:
+        z: 7
+        x: 32735
+        y: 32684
+      description: To City
+      icon: 6
+    501:
+      position:
+        z: 10
+        x: 32540
+        y: 30688
+      icon: 43
+    502:
+      position:
+        z: 7
+        x: 33532
+        y: 32988
+      description: Levitate
+      icon: 6
+    503:
+      position:
+        z: 7
+        x: 32738
+        y: 31569
+      description: Fletcher
+      icon: 23
+    504:
+      position:
+        z: 8
+        x: 32469
+        y: 31030
+      description: Exit
+      icon: 6
+    505:
+      position:
+        z: 4
+        x: 32929
+        y: 32733
+      description: Exit
+      icon: 22
+    506:
+      position:
+        z: 6
+        x: 32533
+        y: 32028
+      icon: 22
+    507:
+      position:
+        z: 7
+        x: 32121
+        y: 31441
+      description: Post Office
+      icon: 21
+    508:
+      position:
+        z: 12
+        x: 33062
+        y: 32521
+      icon: 27
+    509:
+      position:
+        z: 8
+        x: 33538
+        y: 32985
+      description: Exit
+      icon: 22
+    510:
+      position:
+        z: 7
+        x: 32433
+        y: 31354
+      description: Exit
+      icon: 6
+    511:
+      position:
+        z: 9
+        x: 33074
+        y: 32548
+      description: Skull Reaper
+      icon: 22
+    512:
+      position:
+        z: 18
+        x: 31944
+        y: 31844
+      icon: 22
+    513:
+      position:
+        z: 3
+        x: 32264
+        y: 30992
+      icon: 22
+    514:
+      position:
+        z: 7
+        x: 32067
+        y: 31923
+      description: Archini Guild
+      icon: 3
+    515:
+      position:
+        z: 7
+        x: 31982
+        y: 31559
+      icon: 7
+    516:
+      position:
+        z: 10
+        x: 32410
+        y: 31914
+      description: Torunn Clan
+      icon: 3
+    517:
+      position:
+        z: 6
+        x: 32855
+        y: 32744
+      description: Weapon smith
+      icon: 23
+    518:
+      position:
+        z: 7
+        x: 32671
+        y: 31577
+      description: Bless: Mind
+      icon: 3
+    519:
+      position:
+        z: 7
+        x: 32832
+        y: 31546
+      description: Post office
+      icon: 21
+    520:
+      position:
+        z: 9
+        x: 33193
+        y: 31573
+      description: Exit
+      icon: 6
+    521:
+      position:
+        z: 7
+        x: 32526
+        y: 32102
+      description: Bank (Upstairs)
+      icon: 17
+    522:
+      position:
+        z: 6
+        x: 33171
+        y: 32378
+      description: To City
+      icon: 22
+    523:
+      position:
+        z: 6
+        x: 32681
+        y: 31760
+      icon: 22
+    524:
+      position:
+        z: 8
+        x: 32372
+        y: 30951
+      description: Exit
+      icon: 22
+    525:
+      position:
+        z: 7
+        x: 32376
+        y: 32135
+      icon: 6
+    526:
+      position:
+        z: 10
+        x: 32303
+        y: 31897
+      description: Dragoneater Clan
+      icon: 3
+    527:
+      position:
+        z: 7
+        x: 32000
+        y: 31956
+      description: Dianne's Jewelry (Upstairs)
+      icon: 16
+    528:
+      position:
+        z: 8
+        x: 32317
+        y: 31069
+      description: Frost Dragon
+      icon: 22
+    529:
+      position:
+        z: 14
+        x: 32814
+        y: 33101
+      description: Giant Spider
+      icon: 4
+    530:
+      position:
+        z: 9
+        x: 33000
+        y: 32773
+      description: Wulcan
+      icon: 6
+    531:
+      position:
+        z: 11
+        x: 32857
+        y: 32005
+      description: Exit
+      icon: 6
+    532:
+      position:
+        z: 9
+        x: 32107
+        y: 31918
+      description: Exit
+      icon: 6
+    533:
+      position:
+        z: 5
+        x: 32944
+        y: 32722
+      description: Exit
+      icon: 6
+    534:
+      position:
+        z: 14
+        x: 32903
+        y: 33167
+      description: Giant Spider
+      icon: 4
+    535:
+      position:
+        z: 10
+        x: 32890
+        y: 31945
+      description: Fiery Skeleton
+      icon: 35
+    536:
+      position:
+        z: 9
+        x: 32445
+        y: 31191
+      icon: 6
+    537:
+      position:
+        z: 6
+        x: 33223
+        y: 31816
+      description: Equipment Shop
+      icon: 23
+    538:
+      position:
+        z: 8
+        x: 32159
+        y: 31429
+      description: |-
+        Thoris Catacombs
+        (Thoris)
+      icon: 38
+    539:
+      position:
+        z: 11
+        x: 32319
+        y: 31915
+      description: Redbeards Clan
+      icon: 3
+    540:
+      position:
+        z: 5
+        x: 32625
+        y: 31120
+      icon: 6
+    541:
+      position:
+        z: 13
+        x: 32129
+        y: 31940
+      description: To Dragon / To Naginata Quest
+      icon: 22
+    542:
+      position:
+        z: 8
+        x: 32752
+        y: 31941
+      description: Exit
+      icon: 6
+    543:
+      position:
+        z: 6
+        x: 32530
+        y: 32102
+      description: Bank
+      icon: 17
+    544:
+      position:
+        z: 10
+        x: 32572
+        y: 32331
+      description: Exit
+      icon: 6
+    545:
+      position:
+        z: 8
+        x: 32126
+        y: 32332
+      description: Exit
+      icon: 6
+    546:
+      position:
+        z: 6
+        x: 32748
+        y: 31568
+      description: Magic shop
+      icon: 18
+    547:
+      position:
+        z: 8
+        x: 33533
+        y: 32991
+      icon: 6
+    548:
+      position:
+        z: 6
+        x: 33164
+        y: 32708
+      description: Exit
+      icon: 22
+    549:
+      position:
+        z: 9
+        x: 32955
+        y: 32662
+      description: Wulcan
+      icon: 6
+    550:
+      position:
+        z: 9
+        x: 32317
+        y: 31069
+      description: Exit
+      icon: 6
+    551:
+      position:
+        z: 7
+        x: 32924
+        y: 32860
+      description: Exit
+      icon: 22
+    552:
+      position:
+        z: 7
+        x: 33213
+        y: 32974
+      description: Armor
+      icon: 23
+    553:
+      position:
+        z: 8
+        x: 32466
+        y: 31008
+      description: Exit
+      icon: 22
+    554:
+      position:
+        z: 10
+        x: 32571
+        y: 32006
+      description: Garrick
+      icon: 3
+    555:
+      position:
+        z: 3
+        x: 32941
+        y: 32688
+      description: Exit
+      icon: 22
+    556:
+      position:
+        z: 7
+        x: 32537
+        y: 31667
+      description: Mutated Rat
+      icon: 22
+    557:
+      position:
+        z: 8
+        x: 32457
+        y: 31020
+      icon: 6
+    558:
+      position:
+        z: 6
+        x: 33146
+        y: 33003
+      icon: 22
+    559:
+      position:
+        z: 7
+        x: 32950
+        y: 32791
+      icon: 6
+    560:
+      position:
+        z: 7
+        x: 32577
+        y: 32329
+      description: Exit
+      icon: 6
+    561:
+      position:
+        z: 15
+        x: 32095
+        y: 31834
+      description: Exit
+      icon: 6
+    562:
+      position:
+        z: 7
+        x: 32513
+        y: 32097
+      description: Post
+      icon: 21
+    563:
+      position:
+        z: 7
+        x: 32358
+        y: 32030
+      icon: 7
+    564:
+      position:
+        z: 6
+        x: 31888
+        y: 31828
+      description: Osaris
+      icon: 8
+    565:
+      position:
+        z: 8
+        x: 32244
+        y: 31544
+      icon: 6
+    566:
+      position:
+        z: 7
+        x: 32723
+        y: 31460
+      description: Elf
+      icon: 4
+    567:
+      position:
+        z: 16
+        x: 32055
+        y: 31938
+      description: Mad Mage Room Quest
+      icon: 22
+    568:
+      position:
+        z: 5
+        x: 32931
+        y: 32627
+      description: Wulcan
+      icon: 22
+    569:
+      position:
+        z: 4
+        x: 32938
+        y: 32708
+      description: Exit
+      icon: 22
+    570:
+      position:
+        z: 5
+        x: 33285
+        y: 32960
+      description: Knight Spells (Upstairs)
+      icon: 11
+    571:
+      position:
+        z: 2
+        x: 32903
+        y: 32826
+      description: Exit
+      icon: 22
+    572:
+      position:
+        z: 6
+        x: 33138
+        y: 32725
+      icon: 6
+    573:
+      position:
+        z: 8
+        x: 32955
+        y: 32662
+      description: Exit
+      icon: 22
+    574:
+      position:
+        z: 7
+        x: 32855
+        y: 32744
+      description: Armor tradeswoman
+      icon: 23
+    575:
+      position:
+        z: 7
+        x: 32354
+        y: 31544
+      description: Exit
+      icon: 6
+    576:
+      position:
+        z: 4
+        x: 32900
+        y: 32837
+      description: Exit
+      icon: 6
+    577:
+      position:
+        z: 7
+        x: 33029
+        y: 32913
+      description: Slave Hunter, Shakirian Prayer
+      icon: 22
+    578:
+      position:
+        z: 6
+        x: 33104
+        y: 32965
+      description: West Exit
+      icon: 13
+    579:
+      position:
+        z: 11
+        x: 33510
+        y: 32882
+      description: Sandskull Spider
+      icon: 4
+    580:
+      position:
+        z: 8
+        x: 32089
+        y: 31455
+      description: Hunter's outpost
+      icon: 38
+    581:
+      position:
+        z: 7
+        x: 32514
+        y: 31171
+      icon: 35
+    582:
+      position:
+        z: 7
+        x: 32534
+        y: 32060
+      description: Furniture
+      icon: 23
+    583:
+      position:
+        z: 4
+        x: 32819
+        y: 31527
+      description: Depot
+      icon: 8
+    584:
+      position:
+        z: 7
+        x: 32109
+        y: 31452
+      description: Fletcher
+      icon: 23
+    585:
+      position:
+        z: 7
+        x: 33298
+        y: 32022
+      description: Church
+      icon: 3
+    586:
+      position:
+        z: 7
+        x: 32018
+        y: 31919
+      description: Depot
+      icon: 8
+    587:
+      position:
+        z: 7
+        x: 32669
+        y: 31590
+      description: To Lucindel
+      icon: 6
+    588:
+      position:
+        z: 6
+        x: 31973
+        y: 31941
+      description: Inn
+      icon: 19
+    589:
+      position:
+        z: 7
+        x: 32787
+        y: 31511
+      description: Mother Tree
+      icon: 3
+    590:
+      position:
+        z: 6
+        x: 32822
+        y: 32713
+      description: Depot (Upstairs)
+      icon: 8
+    591:
+      position:
+        z: 3
+        x: 32004
+        y: 31843
+      description: Ebarin
+      icon: 23
+    592:
+      position:
+        z: 6
+        x: 33068
+        y: 32390
+      description: Combat Instructor
+      icon: 11
+    593:
+      position:
+        z: 9
+        x: 32338
+        y: 30982
+      description: Frost Dragon
+      icon: 6
+    594:
+      position:
+        z: 8
+        x: 33029
+        y: 32913
+      description: Exit
+      icon: 6
+    595:
+      position:
+        z: 6
+        x: 32521
+        y: 31177
+      icon: 22
+    596:
+      position:
+        z: 8
+        x: 32383
+        y: 30939
+      description: Frost Dragon
+      icon: 22
+    597:
+      position:
+        z: 9
+        x: 32487
+        y: 31206
+      description: Exit
+      icon: 6
+    598:
+      position:
+        z: 6
+        x: 32840
+        y: 32716
+      icon: 22
+    599:
+      position:
+        z: 16
+        x: 32135
+        y: 31894
+      description: Naginata Quest
+      icon: 35
+    600:
+      position:
+        z: 8
+        x: 33000
+        y: 32773
+      description: Exit
+      icon: 22
+    601:
+      position:
+        z: 4
+        x: 32384
+        y: 31994
+      description: Minecarts (City)
+      icon: 7
+    602:
+      position:
+        z: 7
+        x: 33241
+        y: 31767
+      icon: 6
+    603:
+      position:
+        z: 7
+        x: 33063
+        y: 32405
+      description: Ziyad
+      icon: 23
+    604:
+      position:
+        z: 8
+        x: 33609
+        y: 32977
+      description: Exit
+      icon: 6
+    605:
+      position:
+        z: 8
+        x: 32284
+        y: 31027
+      description: Mailbox
+      icon: 21
+    606:
+      position:
+        z: 5
+        x: 32542
+        y: 31158
+      icon: 22
+    607:
+      position:
+        z: 14
+        x: 33292
+        y: 31683
+      description: Titan
+      icon: 22
+    608:
+      position:
+        z: 9
+        x: 33069
+        y: 32960
+      icon: 22
+    609:
+      position:
+        z: 4
+        x: 33282
+        y: 31864
+      description: Spell teacher
+      icon: 10
+    610:
+      position:
+        z: 11
+        x: 32908
+        y: 32013
+      description: Dragon Lord
+      icon: 22
+    611:
+      position:
+        z: 9
+        x: 32529
+        y: 31172
+      description: Exit
+      icon: 6
+    612:
+      position:
+        z: 8
+        x: 32126
+        y: 32345
+      description: Adrenius
+      icon: 2
+    613:
+      position:
+        z: 2
+        x: 32004
+        y: 31851
+      description: To Jester
+      icon: 6
+    614:
+      position:
+        z: 9
+        x: 32368
+        y: 30955
+      description: Exit
+      icon: 6
+    615:
+      position:
+        z: 6
+        x: 33197
+        y: 33028
+      description: Throneroom (Downstairs)
+      icon: 3
+    616:
+      position:
+        z: 7
+        x: 32073
+        y: 31902
+      description: Grim's Guild
+      icon: 3
+    617:
+      position:
+        z: 10
+        x: 32383
+        y: 31473
+      icon: 22
+    618:
+      position:
+        z: 7
+        x: 32493
+        y: 32135
+      description: Temple
+      icon: 9
+    619:
+      position:
+        z: 6
+        x: 32773
+        y: 32736
+      icon: 16
+    620:
+      position:
+        z: 6
+        x: 32562
+        y: 31688
+      icon: 22
+    621:
+      position:
+        z: 6
+        x: 33126
+        y: 33054
+      description: Post Office
+      icon: 21
+    622:
+      position:
+        z: 6
+        x: 32750
+        y: 32693
+      description: To City
+      icon: 22
+    623:
+      position:
+        z: 9
+        x: 32630
+        y: 31823
+      icon: 22
+    624:
+      position:
+        z: 10
+        x: 32857
+        y: 32005
+      icon: 22
+    625:
+      position:
+        z: 7
+        x: 33097
+        y: 32379
+      description: Furniture Shop
+      icon: 23
+    626:
+      position:
+        z: 12
+        x: 33036
+        y: 32472
+      description: Skull Reaper
+      icon: 38
+    627:
+      position:
+        z: 7
+        x: 31970
+        y: 31900
+      description: Church
+      icon: 3
+    628:
+      position:
+        z: 7
+        x: 32765
+        y: 32732
+      description: Bridge
+      icon: 15
+    629:
+      position:
+        z: 8
+        x: 32349
+        y: 32135
+      icon: 6
+    630:
+      position:
+        z: 15
+        x: 32144
+        y: 31934
+      description: Exit
+      icon: 6
+    631:
+      position:
+        z: 9
+        x: 32373
+        y: 30951
+      description: Frost Dragon
+      icon: 6
+    632:
+      position:
+        z: 8
+        x: 32970
+        y: 32678
+      description: Wulcan
+      icon: 22
+    633:
+      position:
+        z: 7
+        x: 32654
+        y: 31642
+      description: Rogue (Amazon)
+      icon: 4
+    634:
+      position:
+        z: 7
+        x: 33204
+        y: 32401
+      description: To City
+      icon: 6
+    635:
+      position:
+        z: 10
+        x: 32621
+        y: 30735
+      icon: 42
+    636:
+      position:
+        z: 5
+        x: 31896
+        y: 31828
+      description: Zarrith
+      icon: 8
+    637:
+      position:
+        z: 7
+        x: 32503
+        y: 32091
+      description: Kirill
+      icon: 2
+    638:
+      position:
+        z: 13
+        x: 32040
+        y: 31903
+      description: Exit
+      icon: 6
+    639:
+      position:
+        z: 7
+        x: 33109
+        y: 32343
+      description: Temple
+      icon: 9
+    640:
+      position:
+        z: 10
+        x: 32585
+        y: 30982
+      description: Exit
+      icon: 6
+    641:
+      position:
+        z: 7
+        x: 32517
+        y: 32099
+      description: Depot
+      icon: 8
+    642:
+      position:
+        z: 4
+        x: 32955
+        y: 32700
+      description: RotS Quest
+      icon: 22
+    643:
+      position:
+        z: 7
+        x: 33633
+        y: 32978
+      icon: 6
+    644:
+      position:
+        z: 6
+        x: 32547
+        y: 32101
+      description: Magic Shop
+      icon: 18
+    645:
+      position:
+        z: 3
+        x: 33066
+        y: 32392
+      description: Caliph
+      icon: 3
+    646:
+      position:
+        z: 18
+        x: 32058
+        y: 31817
+      description: Exit
+      icon: 6
+    647:
+      position:
+        z: 5
+        x: 32857
+        y: 32695
+      description: Magic Shop
+      icon: 18
+    648:
+      position:
+        z: 5
+        x: 32968
+        y: 32759
+      description: Exit
+      icon: 6
+    649:
+      position:
+        z: 7
+        x: 32526
+        y: 32095
+      description: Jeweler (Upstairs)
+      icon: 16
+    650:
+      position:
+        z: 6
+        x: 32460
+        y: 32075
+      description: Druid's Guild
+      icon: 3
+    651:
+      position:
+        z: 7
+        x: 33506
+        y: 32907
+      description: Shakirian Tomb
+      icon: 36
+    652:
+      position:
+        z: 11
+        x: 32488
+        y: 32186
+      description: Exit
+      icon: 6
+    653:
+      position:
+        z: 7
+        x: 32008
+        y: 31920
+      description: Post Office
+      icon: 21
+    654:
+      position:
+        z: 5
+        x: 33046
+        y: 32686
+      description: Lion
+      icon: 22
+    655:
+      position:
+        z: 10
+        x: 32713
+        y: 32670
+      icon: 22
+    656:
+      position:
+        z: 8
+        x: 33123
+        y: 32854
+      icon: 22
+    657:
+      position:
+        z: 7
+        x: 33330
+        y: 31974
+      description: Steamboat (downstairs)
+      icon: 7
+    658:
+      position:
+        z: 10
+        x: 32374
+        y: 31855
+      description: Forge (Grazlin)
+      icon: 2
+    659:
+      position:
+        z: 7
+        x: 32930
+        y: 32633
+      description: Exit
+      icon: 6
+    660:
+      position:
+        z: 8
+        x: 32737
+        y: 31564
+      description: To the Grim's guild
+      icon: 22
+    661:
+      position:
+        z: 7
+        x: 32523
+        y: 32113
+      description: Food
+      icon: 23
+    662:
+      position:
+        z: 11
+        x: 32896
+        y: 32023
+      icon: 28
+    663:
+      position:
+        z: 6
+        x: 33051
+        y: 32393
+      description: Magic Shop
+      icon: 18
+    664:
+      position:
+        z: 7
+        x: 32049
+        y: 31858
+      description: Druid's Guild
+      icon: 3
+    665:
+      position:
+        z: 1
+        x: 32965
+        y: 32722
+      description: RotS Quest
+      icon: 22
+    666:
+      position:
+        z: 8
+        x: 33223
+        y: 31800
+      icon: 6
+    667:
+      position:
+        z: 7
+        x: 32129
+        y: 31529
+      description: Southern Mercenery Camp
+      icon: 3
+    668:
+      position:
+        z: 14
+        x: 33083
+        y: 31709
+      icon: 22
+    669:
+      position:
+        z: 7
+        x: 33370
+        y: 32023
+      description: Melee and ranged combat instructor
+      icon: 12
+    670:
+      position:
+        z: 5
+        x: 32805
+        y: 31443
+      description: Archini Guild and Sorcerer Spell Teacher
+      icon: 3
+    671:
+      position:
+        z: 2
+        x: 32972
+        y: 32722
+      description: RotS Quest
+      icon: 22
+    672:
+      position:
+        z: 7
+        x: 33121
+        y: 32396
+      description: Ammunition supplier
+      icon: 23
+    673:
+      position:
+        z: 10
+        x: 32593
+        y: 30779
+      icon: 43
+    674:
+      position:
+        z: 7
+        x: 32526
+        y: 32193
+      description: Rotworm
+      icon: 22
+    675:
+      position:
+        z: 7
+        x: 32591
+        y: 32316
+      description: Cyclops, Ghost
+      icon: 6
+    676:
+      position:
+        z: 2
+        x: 33250
+        y: 33029
+      description: Potion
+      icon: 18
+    677:
+      position:
+        z: 7
+        x: 32059
+        y: 31458
+      description: Western Mercernary Camp
+      icon: 3
+    678:
+      position:
+        z: 6
+        x: 33618
+        y: 32975
+      description: Levitate
+      icon: 22
+    679:
+      position:
+        z: 7
+        x: 32160
+        y: 32104
+      description: |-
+        Mount Baltimor
+        (Eschen)
+      icon: 38
+    680:
+      position:
+        z: 4
+        x: 31994
+        y: 31841
+      description: To Ebarin / To Jester
+      icon: 6
+    681:
+      position:
+        z: 8
+        x: 32355
+        y: 31467
+      icon: 6
+    682:
+      position:
+        z: 13
+        x: 33143
+        y: 31724
+      icon: 22
+    683:
+      position:
+        z: 9
+        x: 32303
+        y: 30997
+      description: Frost Dragon
+      icon: 6
+    684:
+      position:
+        z: 11
+        x: 32170
+        y: 31917
+      description: Exit
+      icon: 22
+    685:
+      position:
+        z: 7
+        x: 32255
+        y: 32026
+      description: Bridge
+      icon: 6
+    686:
+      position:
+        z: 7
+        x: 32294
+        y: 32004
+      description: Dynahall
+      icon: 15
+    687:
+      position:
+        z: 7
+        x: 32978
+        y: 32703
+      icon: 22
+    688:
+      position:
+        z: 5
+        x: 32955
+        y: 32700
+      description: Exit
+      icon: 6
+    689:
+      position:
+        z: 1
+        x: 32935
+        y: 32687
+      description: Exit
+      icon: 22
+    690:
+      position:
+        z: 7
+        x: 33168
+        y: 33078
+      description: Druids Spells (Upstairs)
+      icon: 10
+    691:
+      position:
+        z: 7
+        x: 31974
+        y: 31919
+      description: To Boat
+      icon: 7
+    692:
+      position:
+        z: 12
+        x: 32358
+        y: 31762
+      description: Royal Hall
+      icon: 3
+    693:
+      position:
+        z: 7
+        x: 32349
+        y: 32136
+      description: Dwarf
+      icon: 22
+    694:
+      position:
+        z: 7
+        x: 33201
+        y: 32967
+      description: Tool
+      icon: 23
+    695:
+      position:
+        z: 7
+        x: 32189
+        y: 31480
+      description: Grim's Guild
+      icon: 3
+    696:
+      position:
+        z: 7
+        x: 33122
+        y: 32377
+      description: Jeweler
+      icon: 16
+    697:
+      position:
+        z: 11
+        x: 32487
+        y: 32182
+      icon: 22
+    698:
+      position:
+        z: 6
+        x: 31892
+        y: 31848
+      icon: 22
+    699:
+      position:
+        z: 16
+        x: 32163
+        y: 31896
+      icon: 32
+    700:
+      position:
+        z: 5
+        x: 32455
+        y: 32076
+      description: Druid spell teacher
+      icon: 10
+    701:
+      position:
+        z: 8
+        x: 32529
+        y: 31172
+      icon: 36
+    702:
+      position:
+        z: 10
+        x: 32743
+        y: 32851
+      description: Exit
+      icon: 6
+    703:
+      position:
+        z: 6
+        x: 32019
+        y: 31849
+      description: Exit
+      icon: 22
+    704:
+      position:
+        z: 7
+        x: 32481
+        y: 32120
+      description: Ammunition
+      icon: 12
+    705:
+      position:
+        z: 9
+        x: 32482
+        y: 32187
+      icon: 22
+    706:
+      position:
+        z: 4
+        x: 32932
+        y: 32721
+      description: Stone (Right Click)
+      icon: 4
+    707:
+      position:
+        z: 9
+        x: 32970
+        y: 32831
+      description: Wulcan
+      icon: 6
+    708:
+      position:
+        z: 14
+        x: 33292
+        y: 31677
+      description: Exit
+      icon: 6
+    709:
+      position:
+        z: 10
+        x: 33110
+        y: 31647
+      icon: 6
+    710:
+      position:
+        z: 6
+        x: 33123
+        y: 32698
+      description: Dragon Lord
+      icon: 4
+    711:
+      position:
+        z: 2
+        x: 32936
+        y: 32687
+      description: RotS Quest
+      icon: 6
+    712:
+      position:
+        z: 10
+        x: 32130
+        y: 32119
+      description: Zundram
+      icon: 4
+    713:
+      position:
+        z: 7
+        x: 33164
+        y: 32708
+      description: Dragon
+      icon: 4
+    714:
+      position:
+        z: 4
+        x: 33253
+        y: 33027
+      description: Magic Shop (Upstairs)
+      icon: 18
+    715:
+      position:
+        z: 6
+        x: 32856
+        y: 32673
+      description: Gryphon Transporter (upstairs)
+      icon: 7
+    716:
+      position:
+        z: 7
+        x: 32784
+        y: 32043
+      description: Piece of Iron
+      icon: 4
+    717:
+      position:
+        z: 7
+        x: 32444
+        y: 31356
+      icon: 6
+    718:
+      position:
+        z: 7
+        x: 32340
+        y: 31635
+      description: Amazon
+      icon: 4
+    719:
+      position:
+        z: 4
+        x: 32264
+        y: 30991
+      icon: 6
+    720:
+      position:
+        z: 7
+        x: 33125
+        y: 32351
+      description: Depot
+      icon: 8
+    721:
+      position:
+        z: 7
+        x: 33533
+        y: 32991
+      description: Exit
+      icon: 22
+    722:
+      position:
+        z: 4
+        x: 32942
+        y: 32688
+      description: Wulcan / RotS Quest
+      icon: 6
+    723:
+      position:
+        z: 6
+        x: 32530
+        y: 32094
+      description: Jeweler
+      icon: 16
+    724:
+      position:
+        z: 8
+        x: 32281
+        y: 31523
+      icon: 22
+    725:
+      position:
+        z: 10
+        x: 32620
+        y: 30757
+      icon: 42
+    726:
+      position:
+        z: 3
+        x: 32889
+        y: 32830
+      description: Exit
+      icon: 6
+    727:
+      position:
+        z: 7
+        x: 32643
+        y: 32698
+      icon: 22
+    728:
+      position:
+        z: 6
+        x: 33210
+        y: 31780
+      description: Blacksmith
+      icon: 23
+    729:
+      position:
+        z: 7
+        x: 33216
+        y: 31756
+      description: To City
+      icon: 6
+    730:
+      position:
+        z: 10
+        x: 33106
+        y: 31692
+      description: Exit
+      icon: 6
+    731:
+      position:
+        z: 7
+        x: 32127
+        y: 31445
+      description: Depot
+      icon: 8
+    732:
+      position:
+        z: 7
+        x: 32414
+        y: 31006
+      icon: 22
+    733:
+      position:
+        z: 5
+        x: 32408
+        y: 32189
+      icon: 22
+    734:
+      position:
+        z: 6
+        x: 33241
+        y: 31767
+      icon: 22
+    735:
+      position:
+        z: 19
+        x: 31944
+        y: 31844
+      icon: 6
+    736:
+      position:
+        z: 3
+        x: 32940
+        y: 32688
+      description: RotS Quest
+      icon: 6
+    737:
+      position:
+        z: 7
+        x: 33053
+        y: 32978
+      description: Blood Tomb (Open Upstairs)
+      icon: 22
+    738:
+      position:
+        z: 6
+        x: 33242
+        y: 33028
+      description: Magic Shop (Upstairs)
+      icon: 18
+    739:
+      position:
+        z: 7
+        x: 32534
+        y: 32085
+      description: Tools
+      icon: 23
+    740:
+      position:
+        z: 7
+        x: 32470
+        y: 31076
+      description: Gate
+      icon: 4
+    741:
+      position:
+        z: 5
+        x: 31983
+        y: 31914
+      description: Hunter's Outpost
+      icon: 38
+    742:
+      position:
+        z: 6
+        x: 32950
+        y: 32787
+      icon: 6
+    743:
+      position:
+        z: 6
+        x: 32013
+        y: 31848
+      description: To General / To Ebarin / To Jester
+      icon: 6
+    744:
+      position:
+        z: 9
+        x: 32537
+        y: 30885
+      description: To Wendigo
+      icon: 22
+    745:
+      position:
+        z: 6
+        x: 32610
+        y: 31104
+      icon: 6
+    746:
+      position:
+        z: 7
+        x: 33192
+        y: 31781
+      description: Temple
+      icon: 9
+    747:
+      position:
+        z: 14
+        x: 33083
+        y: 31707
+      icon: 6
+    748:
+      position:
+        z: 6
+        x: 32950
+        y: 32791
+      description: Exit
+      icon: 22
+    749:
+      position:
+        z: 19
+        x: 32051
+        y: 31902
+      description: Exit
+      icon: 6
+    750:
+      position:
+        z: 7
+        x: 32248
+        y: 32235
+      description: Spider
+      icon: 22
+    751:
+      position:
+        z: 8
+        x: 32924
+        y: 32860
+      description: Wulcan
+      icon: 6
+    752:
+      position:
+        z: 8
+        x: 32372
+        y: 30950
+      description: Exit
+      icon: 22
+    753:
+      position:
+        z: 9
+        x: 32501
+        y: 31202
+      icon: 6
+    754:
+      position:
+        z: 7
+        x: 33331
+        y: 31990
+      description: Bank (upstairs)
+      icon: 8
+    755:
+      position:
+        z: 8
+        x: 32971
+        y: 32693
+      description: Exit
+      icon: 6
+    756:
+      position:
+        z: 7
+        x: 32404
+        y: 31616
+      description: Bless: Swiftness
+      icon: 6
+    757:
+      position:
+        z: 9
+        x: 32570
+        y: 32332
+      icon: 6
+    758:
+      position:
+        z: 7
+        x: 31887
+        y: 32183
+      icon: 22
+    759:
+      position:
+        z: 7
+        x: 32275
+        y: 31461
+      description: Holdangraff
+      icon: 4
+    760:
+      position:
+        z: 7
+        x: 32928
+        y: 32646
+      description: Wulcan
+      icon: 22
+    761:
+      position:
+        z: 7
+        x: 32542
+        y: 32101
+      description: Magic Store (Upstairs)
+      icon: 18
+    762:
+      position:
+        z: 7
+        x: 33193
+        y: 32376
+      description: To City
+      icon: 6
+    763:
+      position:
+        z: 13
+        x: 32167
+        y: 31941
+      description: Exit
+      icon: 6
+    764:
+      position:
+        z: 7
+        x: 32293
+        y: 31865
+      description: Exit
+      icon: 6
+    765:
+      position:
+        z: 7
+        x: 32081
+        y: 31883
+      description: Mage Spells (Upstairs)
+      icon: 10
+    766:
+      position:
+        z: 11
+        x: 33538
+        y: 32914
+      description: Sandskull Spider
+      icon: 4
+    767:
+      position:
+        z: 11
+        x: 32795
+        y: 31940
+      icon: 22
+    768:
+      position:
+        z: 7
+        x: 33201
+        y: 31666
+      description: Cyclopolis
+      icon: 22
+    769:
+      position:
+        z: 7
+        x: 33474
+        y: 32945
+      icon: 36
+    770:
+      position:
+        z: 7
+        x: 31953
+        y: 31189
+      icon: 7
+    771:
+      position:
+        z: 7
+        x: 33224
+        y: 31791
+      description: Bank
+      icon: 17
+    772:
+      position:
+        z: 6
+        x: 33282
+        y: 31864
+      description: Spell teachers (upstairs and downstairs)
+      icon: 10
+    773:
+      position:
+        z: 7
+        x: 32469
+        y: 31030
+      icon: 35
+    774:
+      position:
+        z: 14
+        x: 32129
+        y: 31940
+      description: Exit
+      icon: 6
+    775:
+      position:
+        z: 8
+        x: 33224
+        y: 31806
+      description: Post Office
+      icon: 21
+    776:
+      position:
+        z: 6
+        x: 33244
+        y: 32944
+      description: Jewelry
+      icon: 16
+    777:
+      position:
+        z: 6
+        x: 32768
+        y: 31566
+      description: Tailor
+      icon: 23
+    778:
+      position:
+        z: 5
+        x: 33125
+        y: 32349
+      description: Post office
+      icon: 21
+    779:
+      position:
+        z: 7
+        x: 33311
+        y: 31956
+      description: Meat vendor
+      icon: 20
+    780:
+      position:
+        z: 13
+        x: 32162
+        y: 31947
+      description: To Dragon / To Naginata Quest
+      icon: 6
+    781:
+      position:
+        z: 8
+        x: 32083
+        y: 32103
+      description: Exit
+      icon: 6
+    782:
+      position:
+        z: 11
+        x: 32355
+        y: 31493
+      icon: 6
+    783:
+      position:
+        z: 7
+        x: 32089
+        y: 31455
+      description: Hunter's outpost
+      icon: 38
+    784:
+      position:
+        z: 8
+        x: 32855
+        y: 31966
+      description: itEx
+      icon: 6
+    785:
+      position:
+        z: 6
+        x: 31971
+        y: 31927
+      description: Boat
+      icon: 7
+    786:
+      position:
+        z: 7
+        x: 32521
+        y: 31178
+      description: Exit
+      icon: 6
+    787:
+      position:
+        z: 11
+        x: 33538
+        y: 32881
+      icon: 22
+    788:
+      position:
+        z: 7
+        x: 32855
+        y: 31966
+      icon: 22
+    789:
+      position:
+        z: 4
+        x: 32004
+        y: 31861
+      description: General
+      icon: 2
+    790:
+      position:
+        z: 9
+        x: 33012
+        y: 32760
+      description: Exit
+      icon: 6
+    791:
+      position:
+        z: 10
+        x: 32861
+        y: 33044
+      description: Portal
+      icon: 4
+    792:
+      position:
+        z: 4
+        x: 32962
+        y: 32771
+      description: Exit
+      icon: 22
+    793:
+      position:
+        z: 6
+        x: 32933
+        y: 32750
+      description: Exit
+      icon: 6
+    794:
+      position:
+        z: 7
+        x: 32311
+        y: 32278
+      icon: 6
+    795:
+      position:
+        z: 9
+        x: 32585
+        y: 30982
+      description: To Crystal Beast / To Wendigo
+      icon: 22
+    796:
+      position:
+        z: 7
+        x: 32145
+        y: 31452
+      description: Market
+      icon: 23
+    797:
+      position:
+        z: 7
+        x: 32091
+        y: 31858
+      icon: 22
+    798:
+      position:
+        z: 6
+        x: 32426
+        y: 32259
+      description: Minecarts (South)
+      icon: 7
+    799:
+      position:
+        z: 5
+        x: 32408
+        y: 32171
+      icon: 6
+    800:
+      position:
+        z: 11
+        x: 32364
+        y: 31874
+      description: Depot
+      icon: 8
+    801:
+      position:
+        z: 3
+        x: 32406
+        y: 32144
+      description: Dwarf
+      icon: 4
+    802:
+      position:
+        z: 10
+        x: 33077
+        y: 32549
+      description: Skull Reaper
+      icon: 22
+    803:
+      position:
+        z: 4
+        x: 32934
+        y: 32861
+      description: Wulcan
+      icon: 6
+    804:
+      position:
+        z: 7
+        x: 32128
+        y: 32135
+      description: Bridge
+      icon: 6
+    805:
+      position:
+        z: 7
+        x: 32457
+        y: 31020
+      description: Exit
+      icon: 22
+    806:
+      position:
+        z: 7
+        x: 33300
+        y: 31947
+      description: Inn
+      icon: 19
+    807:
+      position:
+        z: 6
+        x: 32742
+        y: 31497
+      description: Temple
+      icon: 9
+    808:
+      position:
+        z: 7
+        x: 33219
+        y: 31835
+      description: Jeweler
+      icon: 16
+    809:
+      position:
+        z: 7
+        x: 33114
+        y: 32388
+      description: Fruit Vendor
+      icon: 23
+    810:
+      position:
+        z: 9
+        x: 33474
+        y: 32906
+      description: Exit
+      icon: 6
+    811:
+      position:
+        z: 6
+        x: 32632
+        y: 31101
+      description: Exit
+      icon: 22
+    812:
+      position:
+        z: 9
+        x: 32999
+        y: 32695
+      description: Exit
+      icon: 22
+    813:
+      position:
+        z: 7
+        x: 32652
+        y: 31819
+      description: Dragon Lair
+      icon: 22
+    814:
+      position:
+        z: 7
+        x: 32332
+        y: 31536
+      description: Entrance
+      icon: 6
+    815:
+      position:
+        z: 7
+        x: 32786
+        y: 31598
+      icon: 6
+    816:
+      position:
+        z: 4
+        x: 33139
+        y: 32964
+      description: Depot
+      icon: 8
+    817:
+      position:
+        z: 20
+        x: 32040
+        y: 31897
+      description: Exit
+      icon: 6
+    818:
+      position:
+        z: 7
+        x: 33121
+        y: 32388
+      description: Meat Vendor
+      icon: 23
+    819:
+      position:
+        z: 8
+        x: 32971
+        y: 32698
+      description: Wulcan
+      icon: 22
+    820:
+      position:
+        z: 9
+        x: 32971
+        y: 32698
+      description: Exit
+      icon: 6
+    821:
+      position:
+        z: 7
+        x: 33169
+        y: 33067
+      description: To Yehsha
+      icon: 7
+    822:
+      position:
+        z: 4
+        x: 33204
+        y: 33023
+      description: Mage Spells (Upstairs)
+      icon: 10
+    823:
+      position:
+        z: 10
+        x: 32572
+        y: 32303
+      description: Reward
+      icon: 8
+    824:
+      position:
+        z: 7
+        x: 32311
+        y: 32285
+      icon: 6
+    825:
+      position:
+        z: 11
+        x: 33156
+        y: 31673
+      icon: 22
+    826:
+      position:
+        z: 4
+        x: 33125
+        y: 32717
+      icon: 22
+    827:
+      position:
+        z: 10
+        x: 32742
+        y: 32880
+      icon: 22
+    828:
+      position:
+        z: 10
+        x: 32089
+        y: 31932
+      description: Exit
+      icon: 6
+    829:
+      position:
+        z: 6
+        x: 33291
+        y: 31951
+      icon: 22
+    830:
+      position:
+        z: 7
+        x: 32069
+        y: 32084
+      description: To The Hidden Troll Nest
+      icon: 6
+    831:
+      position:
+        z: 6
+        x: 33529
+        y: 32969
+      icon: 22
+    832:
+      position:
+        z: 6
+        x: 33276
+        y: 32960
+      description: Knight Spells (Upstairs)
+      icon: 11
+    833:
+      position:
+        z: 7
+        x: 33182
+        y: 32401
+      description: East Exit
+      icon: 6
+    834:
+      position:
+        z: 7
+        x: 32543
+        y: 32046
+      description: Grim's Guild
+      icon: 3
+    835:
+      position:
+        z: 6
+        x: 32749
+        y: 31567
+      description: Magic shop
+      icon: 18
+    836:
+      position:
+        z: 7
+        x: 33402
+        y: 32377
+      description: To Shakir
+      icon: 7
+    837:
+      position:
+        z: 8
+        x: 33201
+        y: 31666
+      description: Exit
+      icon: 6
+    838:
+      position:
+        z: 7
+        x: 33168
+        y: 33072
+      description: Temple
+      icon: 9
+    839:
+      position:
+        z: 11
+        x: 32883
+        y: 31955
+      description: Fiery Skeleton
+      icon: 6
+    840:
+      position:
+        z: 7
+        x: 33321
+        y: 31998
+      description: Armor salesman
+      icon: 23
+    841:
+      position:
+        z: 5
+        x: 33066
+        y: 32725
+      icon: 22
+    842:
+      position:
+        z: 4
+        x: 32723
+        y: 31472
+      description: Royal Castle
+      icon: 3
+    843:
+      position:
+        z: 3
+        x: 32915
+        y: 32638
+      description: Wulcan
+      icon: 6
+    844:
+      position:
+        z: 7
+        x: 32560
+        y: 32067
+      description: To Boat
+      icon: 7
+    845:
+      position:
+        z: 6
+        x: 33066
+        y: 32725
+      icon: 6
+    846:
+      position:
+        z: 6
+        x: 32748
+        y: 31564
+      description: Mage spell teacher
+      icon: 10
+    847:
+      position:
+        z: 5
+        x: 32610
+        y: 31104
+      description: Exit
+      icon: 22
+    848:
+      position:
+        z: 9
+        x: 33110
+        y: 31647
+      icon: 22
+    849:
+      position:
+        z: 6
+        x: 32433
+        y: 31354
+      icon: 22
+    850:
+      position:
+        z: 8
+        x: 32794
+        y: 32717
+      description: Tools / Emblem Backpacks
+      icon: 23
+    851:
+      position:
+        z: 7
+        x: 33533
+        y: 32967
+      icon: 36
+    852:
+      position:
+        z: 9
+        x: 33538
+        y: 32985
+      icon: 6
+    853:
+      position:
+        z: 8
+        x: 32367
+        y: 30954
+      description: Frost Dragon
+      icon: 22
+    854:
+      position:
+        z: 4
+        x: 32856
+        y: 32673
+      description: Gryphon Transporter
+      icon: 7
+    855:
+      position:
+        z: 7
+        x: 33104
+        y: 32401
+      description: Tool (Upstairs)
+      icon: 23
+    856:
+      position:
+        z: 4
+        x: 32822
+        y: 32707
+      description: Depot
+      icon: 8
+    857:
+      position:
+        z: 7
+        x: 32541
+        y: 31787
+      icon: 22
+    858:
+      position:
+        z: 6
+        x: 33139
+        y: 32965
+      description: Depot
+      icon: 8
+    859:
+      position:
+        z: 7
+        x: 32143
+        y: 31484
+      description: The Temple
+      icon: 9
+    860:
+      position:
+        z: 8
+        x: 33057
+        y: 32540
+      description: Exit
+      icon: 6
+    861:
+      position:
+        z: 9
+        x: 33050
+        y: 32993
+      description: Exit
+      icon: 6
+    862:
+      position:
+        z: 14
+        x: 32087
+        y: 31898
+      description: Exit
+      icon: 6
+    863:
+      position:
+        z: 6
+        x: 33286
+        y: 31943
+      description: Boat
+      icon: 7
+    864:
+      position:
+        z: 7
+        x: 33279
+        y: 31977
+      description: Baker
+      icon: 23
+    865:
+      position:
+        z: 6
+        x: 33204
+        y: 32965
+      description: Market (Downstairs)
+      icon: 23
+    866:
+      position:
+        z: 18
+        x: 31973
+        y: 31849
+      icon: 6
+    867:
+      position:
+        z: 8
+        x: 32933
+        y: 32661
+      description: Wulcan
+      icon: 22
+    868:
+      position:
+        z: 5
+        x: 31892
+        y: 31828
+      description: Icenhaal
+      icon: 8
+    869:
+      position:
+        z: 8
+        x: 32292
+        y: 31538
+      icon: 22
+    870:
+      position:
+        z: 6
+        x: 31896
+        y: 31828
+      description: Yehsha
+      icon: 8
+    871:
+      position:
+        z: 6
+        x: 33166
+        y: 32367
+      description: Food / Beer
+      icon: 20
+    872:
+      position:
+        z: 8
+        x: 33012
+        y: 32760
+      description: Wulcan
+      icon: 22
+    873:
+      position:
+        z: 5
+        x: 32013
+        y: 31848
+      description: Exit
+      icon: 22
+    874:
+      position:
+        z: 10
+        x: 32338
+        y: 32121
+      icon: 22
+    875:
+      position:
+        z: 9
+        x: 32470
+        y: 30984
+      description: Exit
+      icon: 6
+    876:
+      position:
+        z: 7
+        x: 33143
+        y: 31847
+      description: Tvindorath (spell teacher)
+      icon: 10
+    877:
+      position:
+        z: 6
+        x: 33172
+        y: 33075
+      description: Druids Spells (Upstairs)
+      icon: 10
+    878:
+      position:
+        z: 11
+        x: 33490
+        y: 32895
+      description: Anubis
+      icon: 4
+    879:
+      position:
+        z: 7
+        x: 32566
+        y: 31668
+      icon: 6
+    880:
+      position:
+        z: 6
+        x: 33197
+        y: 33022
+      description: Mage Spells (Upstairs)
+      icon: 10
+    881:
+      position:
+        z: 8
+        x: 32928
+        y: 32646
+      description: Exit
+      icon: 6
+    882:
+      position:
+        z: 6
+        x: 32925
+        y: 32864
+      description: Exit
+      icon: 22
+    883:
+      position:
+        z: 10
+        x: 32384
+        y: 31867
+      description: Armor (Dosli)
+      icon: 23
+    884:
+      position:
+        z: 8
+        x: 33053
+        y: 32978
+      description: Exit
+      icon: 6
+    885:
+      position:
+        z: 7
+        x: 32036
+        y: 32010
+      description: Wolf
+      icon: 22
+    886:
+      position:
+        z: 7
+        x: 31860
+        y: 32267
+      icon: 22
+    887:
+      position:
+        z: 7
+        x: 32245
+        y: 31889
+      icon: 22
+    888:
+      position:
+        z: 7
+        x: 32443
+        y: 31150
+      description: Exit
+      icon: 35
+    889:
+      position:
+        z: 15
+        x: 32058
+        y: 31814
+      description: Entrance
+      icon: 22
+    890:
+      position:
+        z: 12
+        x: 32363
+        y: 31850
+      description: Battlehammer Clan
+      icon: 3
+    891:
+      position:
+        z: 9
+        x: 32466
+        y: 31008
+      icon: 6
+    892:
+      position:
+        z: 18
+        x: 32055
+        y: 31927
+      description: Exit
+      icon: 6
+    893:
+      position:
+        z: 7
+        x: 33370
+        y: 32019
+      description: Melee and ranged combat instructor
+      icon: 11
+    894:
+      position:
+        z: 8
+        x: 32113
+        y: 31411
+      description: Saída
+      icon: 6
+    895:
+      position:
+        z: 1
+        x: 32004
+        y: 31851
+      description: Exit
+      icon: 22
+    896:
+      position:
+        z: 11
+        x: 32098
+        y: 31930
+      description: Rotworm / To Dragon / To Naginata Quest
+      icon: 22
+    897:
+      position:
+        z: 7
+        x: 32110
+        y: 31918
+      description: Lost Ruins
+      icon: 22
+    898:
+      position:
+        z: 7
+        x: 32142
+        y: 31847
+      description: Bee
+      icon: 22
+    899:
+      position:
+        z: 7
+        x: 33128
+        y: 32388
+      description: Baker
+      icon: 23
+    900:
+      position:
+        z: 8
+        x: 33506
+        y: 32907
+      description: Exit
+      icon: 6
+    901:
+      position:
+        z: 6
+        x: 31892
+        y: 31828
+      description: Garrogat
+      icon: 8
+    902:
+      position:
+        z: 7
+        x: 33247
+        y: 31841
+      description: Magic
+      icon: 6
+    903:
+      position:
+        z: 7
+        x: 33640
+        y: 32905
+      description: To Osaris
+      icon: 7
+    904:
+      position:
+        z: 6
+        x: 33180
+        y: 33040
+      description: To Temple
+      icon: 22
+    905:
+      position:
+        z: 6
+        x: 33035
+        y: 32685
+      icon: 26
+    906:
+      position:
+        z: 12
+        x: 32888
+        y: 31943
+      description: Exit
+      icon: 6
+    907:
+      position:
+        z: 7
+        x: 32743
+        y: 31497
+      description: Temple
+      icon: 9
+    908:
+      position:
+        z: 7
+        x: 33575
+        y: 32990
+      description: Exit
+      icon: 36
+    909:
+      position:
+        z: 10
+        x: 32137
+        y: 31917
+      description: Exit
+      icon: 6
+    910:
+      position:
+        z: 10
+        x: 32320
+        y: 30969
+      description: Frost Dragon
+      icon: 6
+    911:
+      position:
+        z: 6
+        x: 32566
+        y: 31668
+      icon: 22
+    912:
+      position:
+        z: 9
+        x: 32373
+        y: 30950
+      description: Frost Dragon
+      icon: 6
+    913:
+      position:
+        z: 7
+        x: 32543
+        y: 31015
+      description: TP
+      icon: 5
+    914:
+      position:
+        z: 8
+        x: 33020
+        y: 32855
+      description: To Dream Tomb
+      icon: 6
+    915:
+      position:
+        z: 7
+        x: 32139
+        y: 31399
+      description: Boat
+      icon: 7
+    916:
+      position:
+        z: 13
+        x: 32488
+        y: 32179
+      description: Exit
+      icon: 6
+    917:
+      position:
+        z: 6
+        x: 32069
+        y: 32084
+      description: Exit
+      icon: 22
+    918:
+      position:
+        z: 7
+        x: 32795
+        y: 31875
+      icon: 22
+    919:
+      position:
+        z: 7
+        x: 32164
+        y: 31443
+      description: Jeweler
+      icon: 16
+    920:
+      position:
+        z: 9
+        x: 32871
+        y: 31967
+      description: Exit
+      icon: 6
+    921:
+      position:
+        z: 7
+        x: 33609
+        y: 32977
+      icon: 22
+    922:
+      position:
+        z: 7
+        x: 33207
+        y: 32871
+      icon: 6
+    923:
+      position:
+        z: 12
+        x: 33292
+        y: 31674
+      icon: 22
+    924:
+      position:
+        z: 10
+        x: 32342
+        y: 31870
+      description: Inn
+      icon: 19
+    925:
+      position:
+        z: 7
+        x: 32071
+        y: 32097
+      description: Exit
+      icon: 6
+    926:
+      position:
+        z: 6
+        x: 33319
+        y: 32960
+      description: East Exit
+      icon: 15
+    927:
+      position:
+        z: 7
+        x: 33092
+        y: 32530
+      icon: 6
+    928:
+      position:
+        z: 7
+        x: 32033
+        y: 31938
+      description: Grant's Equipment Store
+      icon: 23
+    929:
+      position:
+        z: 12
+        x: 32878
+        y: 33077
+      description: Portal
+      icon: 4
+    930:
+      position:
+        z: 6
+        x: 32408
+        y: 32190
+      icon: 6
+    931:
+      position:
+        z: 10
+        x: 32350
+        y: 31888
+      description: Fletcher
+      icon: 23
+    932:
+      position:
+        z: 8
+        x: 32807
+        y: 31498
+      description: Bank
+      icon: 17
+    933:
+      position:
+        z: 9
+        x: 33114
+        y: 31727
+      description: Exit
+      icon: 6
+    934:
+      position:
+        z: 3
+        x: 32919
+        y: 32682
+      description: Door Key 7000
+      icon: 4
+    935:
+      position:
+        z: 7
+        x: 33312
+        y: 31998
+      description: Arietta's Quirky Shop
+      icon: 23
+    936:
+      position:
+        z: 13
+        x: 33172
+        y: 31650
+      description: Exit
+      icon: 6
+    937:
+      position:
+        z: 8
+        x: 33012
+        y: 32900
+      description: Shakirian Prayer
+      icon: 22
+    938:
+      position:
+        z: 2
+        x: 32911
+        y: 32626
+      description: Wulcan
+      icon: 22
+    939:
+      position:
+        z: 11
+        x: 32042
+        y: 31936
+      description: Exit
+      icon: 6
+    940:
+      position:
+        z: 10
+        x: 33140
+        y: 32860
+      icon: 22
+    941:
+      position:
+        z: 7
+        x: 32261
+        y: 32259
+      description: To Cave Troll
+      icon: 22
+    942:
+      position:
+        z: 7
+        x: 31981
+        y: 31886
+      description: Knight Spells
+      icon: 11
+    943:
+      position:
+        z: 6
+        x: 33202
+        y: 31780
+      description: Tailor
+      icon: 23
+    944:
+      position:
+        z: 11
+        x: 32378
+        y: 31477
+      icon: 22
+    945:
+      position:
+        z: 7
+        x: 33133
+        y: 31736
+      description: Cult
+      icon: 22
+    946:
+      position:
+        z: 7
+        x: 32590
+        y: 31038
+      description: TP
+      icon: 5
+    947:
+      position:
+        z: 7
+        x: 32157
+        y: 31505
+      description: Castle of Azure Mercenaries
+      icon: 3
+    948:
+      position:
+        z: 7
+        x: 32342
+        y: 31282
+      description: Exit
+      icon: 22
+    949:
+      position:
+        z: 12
+        x: 32162
+        y: 31947
+      description: Exit
+      icon: 22
+    950:
+      position:
+        z: 6
+        x: 31892
+        y: 31833
+      description: Post Office
+      icon: 21
+    951:
+      position:
+        z: 4
+        x: 32713
+        y: 31470
+      description: Elf
+      icon: 4
+    952:
+      position:
+        z: 7
+        x: 32475
+        y: 32293
+      description: Dwarf
+      icon: 22
+    953:
+      position:
+        z: 7
+        x: 33320
+        y: 31861
+      description: Bless: Solitude
+      icon: 3
+    954:
+      position:
+        z: 12
+        x: 32121
+        y: 31917
+      description: Exit
+      icon: 6
+    955:
+      position:
+        z: 7
+        x: 32699
+        y: 31748
+      icon: 6
+    956:
+      position:
+        z: 6
+        x: 33260
+        y: 31840
+      description: Magic Shop (downstairs)
+      icon: 18
+    957:
+      position:
+        z: 6
+        x: 33527
+        y: 32891
+      description: Mailbox
+      icon: 21
+    958:
+      position:
+        z: 12
+        x: 32409
+        y: 31842
+      description: Duringsold Clan
+      icon: 3
+    959:
+      position:
+        z: 7
+        x: 32097
+        y: 31442
+      description: Blacksmith
+      icon: 23
+    960:
+      position:
+        z: 7
+        x: 32850
+        y: 31573
+      description: Hunter's outpost
+      icon: 38
+    961:
+      position:
+        z: 7
+        x: 33618
+        y: 32976
+      description: Exit (Levitate)
+      icon: 6
+    962:
+      position:
+        z: 6
+        x: 32927
+        y: 32698
+      description: Exit
+      icon: 6
+    963:
+      position:
+        z: 7
+        x: 31900
+        y: 31828
+      description: Thoris
+      icon: 8
+    964:
+      position:
+        z: 5
+        x: 33056
+        y: 32700
+      icon: 22
+    965:
+      position:
+        z: 7
+        x: 32815
+        y: 32015
+      icon: 22
+    966:
+      position:
+        z: 10
+        x: 32560
+        y: 30861
+      description: Exit
+      icon: 22
+    967:
+      position:
+        z: 8
+        x: 32786
+        y: 31512
+      description: Furniture shop
+      icon: 23
+    968:
+      position:
+        z: 7
+        x: 32710
+        y: 32743
+      icon: 6
+    969:
+      position:
+        z: 3
+        x: 32408
+        y: 32165
+      icon: 22
+    970:
+      position:
+        z: 6
+        x: 33164
+        y: 33075
+      description: Druids Spells (Upstairs)
+      icon: 10
+    971:
+      position:
+        z: 7
+        x: 32181
+        y: 32116
+      description: Cyclops / To Zundram
+      icon: 22
+    972:
+      position:
+        z: 9
+        x: 32374
+        y: 30944
+      description: Exit
+      icon: 22
+    973:
+      position:
+        z: 14
+        x: 32787
+        y: 33159
+      description: Exit
+      icon: 4
+    974:
+      position:
+        z: 11
+        x: 32041
+        y: 31913
+      description: To Minotaur / To Mad Mage
+      icon: 22
+    975:
+      position:
+        z: 7
+        x: 32731
+        y: 32695
+      description: Boat
+      icon: 7
+    976:
+      position:
+        z: 7
+        x: 33164
+        y: 32387
+      description: House
+      icon: 37
+    977:
+      position:
+        z: 10
+        x: 32552
+        y: 30902
+      description: To Wendigo
+      icon: 22
+    978:
+      position:
+        z: 7
+        x: 32774
+        y: 32009
+      icon: 6
+    979:
+      position:
+        z: 5
+        x: 32950
+        y: 32787
+      description: Exit
+      icon: 22
+    980:
+      position:
+        z: 12
+        x: 32487
+        y: 32182
+      description: Exit
+      icon: 6
+    981:
+      position:
+        z: 7
+        x: 32753
+        y: 31568
+      description: Magic shop (upstairs)
+      icon: 18
+    982:
+      position:
+        z: 7
+        x: 33212
+        y: 32953
+      description: Vegetable
+      icon: 23
+    983:
+      position:
+        z: 7
+        x: 32051
+        y: 31960
+      description: Ammunition / Archer Spells
+      icon: 12
+    984:
+      position:
+        z: 8
+        x: 33014
+        y: 32871
+      description: Exit
+      icon: 6
+    985:
+      position:
+        z: 7
+        x: 32182
+        y: 31463
+      description: Sorcerer and Druid Spell Teachers
+      icon: 10
+    986:
+      position:
+        z: 7
+        x: 32840
+        y: 32716
+      description: To Depot
+      icon: 6
+    987:
+      position:
+        z: 7
+        x: 31888
+        y: 31828
+      description: Mittenhoff
+      icon: 8
+    988:
+      position:
+        z: 4
+        x: 32715
+        y: 31513
+      description: Druid spell teacher
+      icon: 10
+    989:
+      position:
+        z: 8
+        x: 33193
+        y: 31573
+      icon: 22
+    990:
+      position:
+        z: 11
+        x: 32121
+        y: 31917
+      icon: 22
+    991:
+      position:
+        z: 14
+        x: 33143
+        y: 31730
+      icon: 22
+    992:
+      position:
+        z: 7
+        x: 32599
+        y: 31757
+      icon: 6
+    993:
+      position:
+        z: 7
+        x: 31989
+        y: 31912
+      description: Hunter's Outpost (Upstairs)
+      icon: 38
+    994:
+      position:
+        z: 4
+        x: 32019
+        y: 31862
+      description: Exit
+      icon: 22
+    995:
+      position:
+        z: 5
+        x: 32463
+        y: 31073
+      description: To Open Gate
+      icon: 6
+    996:
+      position:
+        z: 7
+        x: 32355
+        y: 31467
+      icon: 22
+    997:
+      position:
+        z: 6
+        x: 33146
+        y: 32681
+      description: Dragon Lord
+      icon: 4
+    998:
+      position:
+        z: 11
+        x: 32552
+        y: 30902
+      description: Exit
+      icon: 6
+    999:
+      position:
+        z: 5
+        x: 32822
+        y: 32710
+      description: Depot
+      icon: 8
+    1000:
+      position:
+        z: 8
+        x: 32414
+        y: 31006
+      description: Exit
+      icon: 6
+    1001:
+      position:
+        z: 6
+        x: 32542
+        y: 31158
+      description: Exit
+      icon: 6
+    1002:
+      position:
+        z: 6
+        x: 33533
+        y: 32986
+      description: Exit
+      icon: 22
+    1003:
+      position:
+        z: 12
+        x: 33172
+        y: 31650
+      icon: 22
+    1004:
+      position:
+        z: 6
+        x: 33153
+        y: 32916
+      icon: 22
+    1005:
+      position:
+        z: 10
+        x: 32312
+        y: 32159
+      icon: 6
+    1006:
+      position:
+        z: 3
+        x: 32900
+        y: 32837
+      description: Wulcan
+      icon: 22
