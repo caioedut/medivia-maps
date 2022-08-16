@@ -23,8 +23,37 @@ for /f "Tokens=* Delims=" %%G in (!CONFIG_BKP!) do (
 
     set sub1=!line:~2,6!
     set sub2=!line:~2,5!
+    set sub3=!line:~2,8!
+
+    IF !line! == MiniWindows: (
+        set ignore=0
+    )
+
+    IF !line! == game_interface: (
+        set ignore=0
+    )
+
+    IF !line! == VipList: (
+        set ignore=0
+    )
+
+    IF !line! == game_console: (
+        set ignore=0
+    )
+
+    IF !line! == IgnorePlayers: (
+        set ignore=0
+    )
+
+    IF !line! == WhitelistedPlayers: (
+        set ignore=0
+    )
 
     IF !sub2! == zoom: (
+        set ignore=0
+    )
+
+    IF !sub3! == helpers: (
         set ignore=0
     )
 
