@@ -7,7 +7,6 @@ set EXTRACT_DIR=%DIR%\medivia-maps-main
 
 set FLAGS=%EXTRACT_DIR%\flags.otml
 set CONFIG=%DIR%\config.otml
-set CONFIG_TMP=%DIR%\config.tmp.otml
 set CONFIG_BKP=%DIR%\config.bkp.otml
 
 curl -L "https://github.com/caioedut/medivia-maps/archive/main.zip" -o "%ZIP%"
