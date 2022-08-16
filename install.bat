@@ -7,6 +7,7 @@ set EXTRACT_DIR=%DIR%\medivia-maps-main
 
 set FLAGS=%EXTRACT_DIR%\flags.otml
 set CONFIG=%DIR%\config.otml
+set CONFIG_TMP=%DIR%\config.tmp.otml
 set CONFIG_BKP=%DIR%\config.bkp.otml
 
 curl -L "https://github.com/caioedut/medivia-maps/archive/main.zip" -o "%ZIP%"
@@ -20,20 +21,21 @@ set /a ignore=0
 
 for /f "Tokens=* Delims=" %%G in (!CONFIG_BKP!) do (
     set line=%%G
+
     set sub1=!line:~2,6!
     set sub2=!line:~2,5!
 
-    IF !ignore! == 0 (
-        ECHO %%G >> !CONFIG!
+    IF !sub2! == zoom: (
+        set ignore=0
+    )
+
+    IF !ignore! == 0 IF NOT !line! == "" (
+        ECHO !line!>>!CONFIG!
     )
 
     IF !sub1! == flags: (
-        copy !CONFIG!+!FLAGS! !CONFIG!
+        type !FLAGS! >> !CONFIG!
         set ignore=1
-    )
-
-    IF !sub2! == zoom: (
-        set ignore=0
     )
 )
 
